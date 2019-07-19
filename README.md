@@ -9,8 +9,11 @@ Awesome Machine Learning Resources and References
 * [Visualizing K-Means algorithm with D3.js](http://tech.nitoyon.com/en/blog/2013/11/07/k-means/)
 
 
-## Special Algorithms
+## Special Algorithms and Techniques
 ### Deepfake
+
+### Deep learning
+* [Model Asset eXchange - IBM](https://developer.ibm.com/exchanges/models/) - A place for developers to find and use free and open source deep learning models.
 
 
 ## Libraries
