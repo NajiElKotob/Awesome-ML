@@ -23,9 +23,10 @@ Awesome Machine Learning Resources and References
   * [Announcing ML.NET 1.2 and Model Builder updates](https://devblogs.microsoft.com/dotnet/announcing-ml-net-1-2-and-model-builder-updates-machine-learning-for-net/)
 
 ## Software and Tools
-* KNIME
+* [KNIME](https://www.knime.com) - KNIME, the Konstanz Information Miner, is a free and open-source data analytics, reporting and integration platform
 * RapidMiner
 * Weka
 * AzureML
 * IBM Watson
-
+* [H2O](https://www.h2o.ai) - Open Source Leader in AI and ML
+* [Alteryx](https://www.alteryx.com) - A leader in data science and self-service analytics
