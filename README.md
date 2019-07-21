@@ -16,10 +16,15 @@ Awesome Machine Learning Resources and References
 
 -----
 ## Special Algorithms and Techniques
+
+### Natural language processing (NLP)
+
+### Deep Learning (DL)
+* [Model Asset eXchange - IBM](https://developer.ibm.com/exchanges/models/) - A place for developers to find and use free and open source deep learning models.
+
 ### Deepfake
 
-### Deep learning
-* [Model Asset eXchange - IBM](https://developer.ibm.com/exchanges/models/) - A place for developers to find and use free and open source deep learning models.
+
 
 -----
 ## Libraries and Programming Languages
