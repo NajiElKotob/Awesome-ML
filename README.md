@@ -14,19 +14,27 @@ Awesome Machine Learning Resources and References
 
 ### Clustering
 
-
+-----
 ## Special Algorithms and Techniques
 ### Deepfake
 
 ### Deep learning
 * [Model Asset eXchange - IBM](https://developer.ibm.com/exchanges/models/) - A place for developers to find and use free and open source deep learning models.
 
-
-## Libraries
+-----
+## Libraries and Programming Languages
 ### C#
 * ML.NET
   * [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) - An open source and cross-platform machine learning framework
   * [Announcing ML.NET 1.2 and Model Builder updates](https://devblogs.microsoft.com/dotnet/announcing-ml-net-1-2-and-model-builder-updates-machine-learning-for-net/)
+
+### Python
+* [Awesome Python](https://github.com/NajiElKotob/Awesome-Python) - Resources and References
+
+### R
+* [Awesome R](https://github.com/NajiElKotob/Awesome-R) - Resources and References
+
+-----
 
 ## Software and Tools
 * [KNIME](https://www.knime.com) - KNIME, the Konstanz Information Miner, is a free and open-source data analytics, reporting and integration platform
