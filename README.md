@@ -55,4 +55,5 @@ Awesome Machine Learning Resources and References
 
 -----
 ## Special Articles
+* [Microsoft has a wild hologram that translates HoloLens keynotes into Japanese](https://www.theverge.com/2019/7/17/20697976/microsoft-hololens-hologram-keynote-japanese-translation-microsoft-inspire)
 * [Novel AI tools to accelerate cancer research](https://www.ibm.com/blogs/research/2019/07/ai-tools-for-cancer-research/) 
