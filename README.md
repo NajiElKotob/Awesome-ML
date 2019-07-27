@@ -33,12 +33,6 @@ Awesome Machine Learning Resources and References
 ##### Q-learning
 
 
-
-
-
-
-
-
 -----
 ## Special Algorithms and Techniques
 
@@ -48,6 +42,7 @@ Awesome Machine Learning Resources and References
 * [Model Asset eXchange - IBM](https://developer.ibm.com/exchanges/models/) - A place for developers to find and use free and open source deep learning models.
 
 ### Deepfake
+* [Fake Videos of Real People (TED)](https://www.ted.com/talks/supasorn_suwajanakorn_fake_videos_of_real_people_and_how_to_spot_them?language=en#t-37041)
 
 ### Survival Analysis 
 * [Survival Analysis (March 2018)](https://towardsdatascience.com/survival-analysis-part-a-70213df21c2e) - An introduction to the concepts of Survival Analysis and its implementation in lifelines package for Python.
