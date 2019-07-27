@@ -3,16 +3,38 @@ Awesome Machine Learning Resources and References
 
 [Pre-Alpha Version]
 
-## Algorithms
+## Machine Learning Algorithms
 
-### Regression
+### Supervised
+> Supervised learning is a method used to enable machines to classify objects, problems or situations based on related data fed into the machines.
 
+#### Regression
+##### Linear
 
-### Clustering
-* [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) - George Seif
+#### Classification
+##### KNN
+##### Logistic Regression
+
+### Unsupervided
+
+#### Clustering
+##### K-Means
 * [Visualizing K-Means algorithm with D3.js](http://tech.nitoyon.com/en/blog/2013/11/07/k-means/)
 
-### Clustering
+##### Clustering Articles and Resources
+* [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) - George Seif
+
+
+
+### Reinforcement 
+#### Off-policy
+##### Q-learning
+
+
+
+
+
+
 
 
 -----
