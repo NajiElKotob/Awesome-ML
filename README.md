@@ -14,6 +14,7 @@ Awesome Machine Learning Resources and References
 
 ### Clustering
 
+
 -----
 ## Special Algorithms and Techniques
 
@@ -51,3 +52,7 @@ Awesome Machine Learning Resources and References
 * [H2O](https://www.h2o.ai) - Open Source Leader in AI and ML
 * [Alteryx](https://www.alteryx.com) - A leader in data science and self-service analytics
 * [ONNX](https://onnx.ai/) - ONNX is an open format to represent deep learning models. With ONNX, AI developers can more easily move models between state-of-the-art tools and choose the combination that is best for them. ONNX is developed and supported by a community of partners.
+
+-----
+## Special Articles
+* [Novel AI tools to accelerate cancer research](https://www.ibm.com/blogs/research/2019/07/ai-tools-for-cancer-research/) 
