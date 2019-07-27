@@ -49,6 +49,9 @@ Awesome Machine Learning Resources and References
 
 ### Deepfake
 
+### Survival Analysis 
+* [Survival Analysis (March 2018)](https://towardsdatascience.com/survival-analysis-part-a-70213df21c2e) - An introduction to the concepts of Survival Analysis and its implementation in lifelines package for Python.
+
 
 
 -----
