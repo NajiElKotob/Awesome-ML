@@ -6,7 +6,7 @@ Awesome Machine Learning Resources and References
 ## Machine Learning Algorithms
 
 ### Supervised
-> Supervised learning is a method used to enable machines to classify objects, problems or situations based on related data fed into the machines.
+> Supervised learning is a method used to enable machines to classify objects, problems or situations based on related data fed into the machines. (techopedia.com)
 
 #### Regression
 ##### Linear
@@ -16,6 +16,7 @@ Awesome Machine Learning Resources and References
 ##### Logistic Regression
 
 ### Unsupervided
+> Unsupervised learning is a method used to enable machines to classify both tangible and intangible objects without providing the machines any prior information about the objects. (techopedia.com)
 
 #### Clustering
 ##### K-Means
@@ -27,6 +28,7 @@ Awesome Machine Learning Resources and References
 
 
 ### Reinforcement 
+> Reinforcement learning, in the context of artificial intelligence, is a type of dynamic programming that trains algorithms using a system of reward and punishment. (techopedia.com)
 #### Off-policy
 ##### Q-learning
 
