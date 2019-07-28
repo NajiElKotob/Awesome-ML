@@ -11,6 +11,7 @@ Awesome Machine Learning Resources and References
 #### Regression
 ##### Linear
 
+
 #### Classification
 ##### KNN
 ##### Logistic Regression
@@ -25,7 +26,8 @@ Awesome Machine Learning Resources and References
 ##### Clustering Articles and Resources
 * [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) - George Seif
 
-
+#### Dimensionality Reduction
+* [A Hands-On Guide To Dimensionality Reduction (Feb 2019)](https://www.analyticsindiamag.com/a-hands-on-guide-to-dimensionality-reduction/) 
 
 ### Reinforcement 
 > Reinforcement learning, in the context of artificial intelligence, is a type of dynamic programming that trains algorithms using a system of reward and punishment. (techopedia.com)
