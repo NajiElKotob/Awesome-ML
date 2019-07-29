@@ -19,6 +19,8 @@ Awesome Machine Learning Resources and References
 
 ##### KNN
 ##### Logistic Regression
+##### Naive Bayes Classifier
+* [Naive Bayes Classifier](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c) - Rohith Gandhi (May 2018)
 
 ### Unsupervided
 > Unsupervised learning is a method used to enable machines to classify both tangible and intangible objects without providing the machines any prior information about the objects. (techopedia.com)
