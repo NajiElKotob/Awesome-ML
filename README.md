@@ -9,13 +9,13 @@ Awesome Machine Learning Resources and References
 > Supervised learning is a method used to enable machines to classify objects, problems or situations based on related data fed into the machines. (techopedia.com)
 
 #### Regression
-> Predict continuous values
+>> Predict continuous values
 
 ##### Linear
 
 
 #### Classification
-> Predict discrete values
+>> Predict discrete values
 
 ##### KNN
 ##### Logistic Regression
@@ -24,12 +24,16 @@ Awesome Machine Learning Resources and References
 > Unsupervised learning is a method used to enable machines to classify both tangible and intangible objects without providing the machines any prior information about the objects. (techopedia.com)
 
 #### Clustering
-> Find distributions
+>> Find distributions
+
 ##### K-Means
 * [Visualizing K-Means algorithm with D3.js](http://tech.nitoyon.com/en/blog/2013/11/07/k-means/)
 
 ##### Clustering Articles and Resources
 * [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) - George Seif
+
+#### Association
+>> Market Basket Analysis
 
 #### Dimensionality Reduction
 * [A Hands-On Guide To Dimensionality Reduction (Feb 2019)](https://www.analyticsindiamag.com/a-hands-on-guide-to-dimensionality-reduction/) 
