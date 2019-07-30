@@ -11,6 +11,8 @@ Awesome Machine Learning Resources and References
 #### Regression
 ```Predict continuous values```
 
+* [Top 6 Regression Algorithms Used In Data Mining And Their Applications In Industry](https://www.analyticsindiamag.com/top-6-regression-algorithms-used-data-mining-applications-industry/)
+
 ##### Linear
 
 
