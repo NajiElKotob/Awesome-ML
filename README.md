@@ -107,3 +107,7 @@ Awesome Machine Learning Resources and References
 * [Introduction to Recommender System](https://hackernoon.com/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75) - Introduction to Recommender System. Part 1 (Collaborative Filtering, Singular Value Decomposition)
 * [Why One-Hot Encode Data in Machine Learning?](https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/)
 
+
+-----
+## Websites
+* [Salma](http://www.salma.ai/) - The world's first Arabic personal voice assistant.
