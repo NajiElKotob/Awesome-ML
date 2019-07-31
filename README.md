@@ -23,6 +23,10 @@ Awesome Machine Learning Resources and References
 ##### Logistic Regression
 ##### Naive Bayes Classifier
 * [Naive Bayes Classifier](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c) - Rohith Gandhi (May 2018)
+##### Decision Trees
+##### Support Vector Machines (SVM)
+##### Neural Networks
+
 
 ### Unsupervided
 > Unsupervised learning is a method used to enable machines to classify both tangible and intangible objects without providing the machines any prior information about the objects. (techopedia.com)
@@ -36,17 +40,19 @@ Awesome Machine Learning Resources and References
 ##### Clustering Articles and Resources
 * [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) - George Seif
 
-#### Association
+#### Association Rules
 ```Market Basket Analysis```
 
 #### Dimensionality Reduction
 * [A Hands-On Guide To Dimensionality Reduction (Feb 2019)](https://www.analyticsindiamag.com/a-hands-on-guide-to-dimensionality-reduction/) 
 
-### Reinforcement 
-> Reinforcement learning, in the context of artificial intelligence, is a type of dynamic programming that trains algorithms using a system of reward and punishment. (techopedia.com)
-#### Off-policy
-##### Q-learning
+### Semi-supervised Learning
 
+### Reinforcement 
+> Reinforcement learning, in the context of artificial intelligence, is a type of dynamic programming that trains algorithms using a system of reward and punishment (techopedia.com), some applications of the reinforcement learning algorithms are computer played board games (Chess, Go), robotic hands, and self-driving cars.
+#### Q-learning
+#### Temporal Difference (TD)
+#### Deep Adversarial Networks
 
 -----
 ## Special Algorithms and Techniques
