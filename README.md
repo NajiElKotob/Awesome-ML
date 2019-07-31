@@ -95,12 +95,14 @@ Awesome Machine Learning Resources and References
 * [ONNX](https://onnx.ai/) - ONNX is an open format to represent deep learning models. With ONNX, AI developers can more easily move models between state-of-the-art tools and choose the combination that is best for them. ONNX is developed and supported by a community of partners.
 
 -----
-## Special Videos
+## ML Videos
 * [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU&feature=youtu.be) - This is a talk for people who know code, but who don’t necessarily know machine learning. 
 * [Data Mining with Weka](https://www.youtube.com/user/WekaMOOC) - Weka MOOC
 * [Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Machine Learning Recipes with Josh Gordon
 
 -----
-## Special Articles
+## ML Articles
 * [Microsoft has a wild hologram that translates HoloLens keynotes into Japanese](https://www.theverge.com/2019/7/17/20697976/microsoft-hololens-hologram-keynote-japanese-translation-microsoft-inspire)
 * [Novel AI tools to accelerate cancer research](https://www.ibm.com/blogs/research/2019/07/ai-tools-for-cancer-research/) 
+* [Introduction to Recommender System](https://hackernoon.com/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75) - Introduction to Recommender System. Part 1 (Collaborative Filtering, Singular Value Decomposition)
+
