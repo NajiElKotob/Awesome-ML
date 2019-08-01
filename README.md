@@ -41,7 +41,7 @@ Awesome Machine Learning Resources and References
 * [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) - George Seif
 
 #### Association Rules
-```Market Basket Analysis```
+```Market Basket Analysis and Recommender Systems```
 
 #### Dimensionality Reduction
 * [A Hands-On Guide To Dimensionality Reduction (Feb 2019)](https://www.analyticsindiamag.com/a-hands-on-guide-to-dimensionality-reduction/) 
