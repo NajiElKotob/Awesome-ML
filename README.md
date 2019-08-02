@@ -3,6 +3,12 @@ Awesome Machine Learning Resources and References
 
 [Alpha Version]
 
+## Table of contents
+* [Machine Learning Algorithms](#machine-learning-algorithms)
+* [Special Algorithms and Techniques](#special-algorithms-and-techniques)
+* [Libraries and Programming Languages](#libraries-and-programming-languages)
+
+
 ## Machine Learning Algorithms
 
 ### Supervised
