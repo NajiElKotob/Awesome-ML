@@ -115,6 +115,14 @@ Awesome Machine Learning Resources and References
 * [Artificial Intelligence, Machine Learning, and Deep Learning: Same context, Different concepts](https://master-iesc-angers.com/artificial-intelligence-machine-learning-and-deep-learning-same-context-different-concepts/)
 * [Few Industries Have More To Offer And To Gain From Big Data Than Telecommunications](http://datasciencegyan.com/few-industries-have-more-to-offer-and-to-gain-from-big-data-than-telecommunications/) 
 
+-----   
+## Math and Statistics
+* [Equations and Functions]
+  * [The Distributive Property (Video)](https://www.youtube.com/watch?v=v-6MShC82ow) - Algebra Basics: The Distributive Property - Math Antics
+* [Derivatives and Optimizations]
+* [Vectors and Matrices]
+* [Statistics and Probability]
+
 -----
 ## Websites
 * [Salma](http://www.salma.ai/) - The world's first Arabic personal voice assistant.
