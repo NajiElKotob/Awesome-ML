@@ -99,6 +99,10 @@ Awesome Machine Learning Resources and References
 ### R
 * [Awesome R](https://github.com/NajiElKotob/Awesome-R) - Resources and References
 
+### Gen
+* [New AI programming language goes beyond deep learning (MIT)](http://news.mit.edu/2019/ai-programming-gen-0626) - General-purpose language works for computer vision, robotics, statistics, and more.
+
+
 -----
 
 ## Software and Tools
