@@ -43,11 +43,14 @@ Awesome Machine Learning Resources and References
 ##### K-Means
 * [Visualizing K-Means algorithm with D3.js](http://tech.nitoyon.com/en/blog/2013/11/07/k-means/)
 
+
 ##### Clustering Articles and Resources
 * [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) - George Seif
 
+
 #### Association Rules
 ```Market Basket Analysis and Recommender Systems```
+
 
 #### Dimensionality Reduction
 * [A Hands-On Guide To Dimensionality Reduction (Feb 2019)](https://www.analyticsindiamag.com/a-hands-on-guide-to-dimensionality-reduction/) 
@@ -59,6 +62,7 @@ Awesome Machine Learning Resources and References
 #### Q-learning
 #### Temporal Difference (TD)
 #### Deep Adversarial Networks
+
 
 -----
 ## Special Algorithms and Techniques
@@ -72,13 +76,13 @@ Awesome Machine Learning Resources and References
 ### Deep Learning (DL)
 * [Model Asset eXchange - IBM](https://developer.ibm.com/exchanges/models/) - A place for developers to find and use free and open source deep learning models.
 
+
 ### Deepfake
 * [Fake Videos of Real People (TED)](https://www.ted.com/talks/supasorn_suwajanakorn_fake_videos_of_real_people_and_how_to_spot_them?language=en#t-37041) - Do you think you're good at spotting fake videos, where famous people say things they've never said in real life?
 
+
 ### Survival Analysis 
 * [Survival Analysis (March 2018)](https://towardsdatascience.com/survival-analysis-part-a-70213df21c2e) - An introduction to the concepts of Survival Analysis and its implementation in lifelines package for Python.
-
-
 
 -----
 ## Libraries and Programming Languages
@@ -87,8 +91,10 @@ Awesome Machine Learning Resources and References
   * [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) - An open source and cross-platform machine learning framework
   * [Announcing ML.NET 1.2 and Model Builder updates](https://devblogs.microsoft.com/dotnet/announcing-ml-net-1-2-and-model-builder-updates-machine-learning-for-net/)
 
+
 ### Python
 * [Awesome Python](https://github.com/NajiElKotob/Awesome-Python) - Resources and References
+
 
 ### R
 * [Awesome R](https://github.com/NajiElKotob/Awesome-R) - Resources and References
@@ -111,6 +117,7 @@ Awesome Machine Learning Resources and References
 * [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU&feature=youtu.be) - This is a talk for people who know code, but who don’t necessarily know machine learning. 
 * [Data Mining with Weka](https://www.youtube.com/user/WekaMOOC) - Weka MOOC
 * [Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Machine Learning Recipes with Josh Gordon
+* [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) - StatQuest with Josh Starmer 
 
 -----
 ## ML Articles
