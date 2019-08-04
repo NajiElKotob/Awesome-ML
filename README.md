@@ -141,5 +141,9 @@ Awesome Machine Learning Resources and References
 * [Statistics and Probability]
 
 -----
-## Websites
+## Websites and Videos
+### Websites
 * [Salma](http://www.salma.ai/) - The world's first Arabic personal voice assistant.
+
+### Videos
+* [Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg) - Sam Harris (October 2016)
