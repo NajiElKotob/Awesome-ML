@@ -54,6 +54,8 @@ Awesome Machine Learning Resources and References
 
 #### Dimensionality Reduction
 * [A Hands-On Guide To Dimensionality Reduction (Feb 2019)](https://www.analyticsindiamag.com/a-hands-on-guide-to-dimensionality-reduction/) 
+* [Topic Modeling and Latent Dirichlet Allocation (LDA) in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) - Latent Dirichlet Allocation (LDA) is an example of topic model and is used to classify text in a document to a particular topic.
+
 
 ### Semi-supervised Learning
 
