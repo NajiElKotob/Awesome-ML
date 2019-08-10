@@ -4,7 +4,11 @@ Awesome Machine Learning Resources and References
 [Alpha Version]
 
 ## Table of contents
-* [Machine Learning Algorithms](#machine-learning-algorithms)
+* [Machine Learning](#machine-learning)
+  * [Supervised](#supervised)
+  * [Unsupervided](#unsupervided)
+  * [Semi-supervised](#semi-supervised)
+  * [Reinforcement](#reinforcement)
 * [Special Algorithms and Techniques](#special-algorithms-and-techniques)
 * [Libraries and Programming Languages](#libraries-and-programming-languages)
 
@@ -57,7 +61,7 @@ Awesome Machine Learning Resources and References
 * [Topic Modeling and Latent Dirichlet Allocation (LDA) in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) - Latent Dirichlet Allocation (LDA) is an example of topic model and is used to classify text in a document to a particular topic.
 
 
-### Semi-supervised Learning
+### Semi-supervised
 
 ### Reinforcement 
 > Reinforcement learning, in the context of artificial intelligence, is a type of dynamic programming that trains algorithms using a system of reward and punishment (techopedia.com), some applications of the reinforcement learning algorithms are computer played board games (Chess, Go), robotic hands, and self-driving cars.
