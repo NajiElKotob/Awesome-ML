@@ -144,6 +144,9 @@ Awesome Machine Learning Resources and References
 * [Supervised and Unsupervised Learning](https://medium.com/datadriveninvestor/supervised-and-unsupervised-learning-7281050992a0) - Vineet Maheshwari
 * [Data science and machine learning](https://www.ibm.com/analytics/machine-learning) - Collaborate across teams, use the top open source tools and scale at the speed your business requires with this leading data science platform.
 
+## ML Books
+* [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3)
+
 -----   
 ## Math and Statistics
 ### Statistics Primer
