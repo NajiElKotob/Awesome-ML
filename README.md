@@ -142,6 +142,7 @@ Awesome Machine Learning Resources and References
 * [Artificial Intelligence, Machine Learning, and Deep Learning: Same context, Different concepts](https://master-iesc-angers.com/artificial-intelligence-machine-learning-and-deep-learning-same-context-different-concepts/)
 * [Few Industries Have More To Offer And To Gain From Big Data Than Telecommunications](http://datasciencegyan.com/few-industries-have-more-to-offer-and-to-gain-from-big-data-than-telecommunications/) 
 * [Supervised and Unsupervised Learning](https://medium.com/datadriveninvestor/supervised-and-unsupervised-learning-7281050992a0) - Vineet Maheshwari
+* [Data science and machine learning](https://www.ibm.com/analytics/machine-learning) - Collaborate across teams, use the top open source tools and scale at the speed your business requires with this leading data science platform.
 
 -----   
 ## Math and Statistics
