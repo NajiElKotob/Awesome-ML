@@ -140,14 +140,28 @@ Awesome Machine Learning Resources and References
 * [Why One-Hot Encode Data in Machine Learning?](https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/)
 * [Artificial Intelligence, Machine Learning, and Deep Learning: Same context, Different concepts](https://master-iesc-angers.com/artificial-intelligence-machine-learning-and-deep-learning-same-context-different-concepts/)
 * [Few Industries Have More To Offer And To Gain From Big Data Than Telecommunications](http://datasciencegyan.com/few-industries-have-more-to-offer-and-to-gain-from-big-data-than-telecommunications/) 
+* [Supervised and Unsupervised Learning](https://medium.com/datadriveninvestor/supervised-and-unsupervised-learning-7281050992a0) - Vineet Maheshwari
 
 -----   
 ## Math and Statistics
-* [Equations and Functions]
+### Statistics Primer
+* What is data?
+* Population vs. Sample 
+* Measures of Central Tendency 
+* Measures of Variability 
+* Hypothesis Testing 
+* Measures of Association
+  * Correlation Coefficients 
+* Comparative Measures 
+  * t-Tests
+* Probability Basics
+
+### Other Topics
+* Equations and Functions
   * [The Distributive Property (Video)](https://www.youtube.com/watch?v=v-6MShC82ow) - Algebra Basics: The Distributive Property - Math Antics
-* [Derivatives and Optimizations]
-* [Vectors and Matrices]
-* [Statistics and Probability]
+* Derivatives and Optimizations
+* Vectors and Matrices
+* Statistics and Probability
 
 -----
 ## Websites and Videos
