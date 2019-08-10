@@ -39,7 +39,7 @@ Awesome Machine Learning Resources and References
 ##### Neural Networks
 
 
-### Unsupervided
+### Unsupervided :star:
 > Unsupervised learning is a method used to enable machines to classify both tangible and intangible objects without providing the machines any prior information about the objects. (techopedia.com)
 
 #### Clustering
@@ -62,13 +62,16 @@ Awesome Machine Learning Resources and References
 * [Topic Modeling and Latent Dirichlet Allocation (LDA) in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) - Latent Dirichlet Allocation (LDA) is an example of topic model and is used to classify text in a document to a particular topic.
 
 
-### Semi-supervised
+### Semi-supervised :star:
 
-### Reinforcement 
+
+### Reinforcement :star:
 > Reinforcement learning, in the context of artificial intelligence, is a type of dynamic programming that trains algorithms using a system of reward and punishment (techopedia.com), some applications of the reinforcement learning algorithms are computer played board games (Chess, Go), robotic hands, and self-driving cars.
 #### Q-learning
 #### Temporal Difference (TD)
 #### Deep Adversarial Networks
+
+### Deep learning :star:
 
 
 -----
