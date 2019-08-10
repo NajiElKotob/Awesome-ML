@@ -11,7 +11,8 @@ Awesome Machine Learning Resources and References
   * [Reinforcement](#reinforcement)
 * [Special Algorithms and Techniques](#special-algorithms-and-techniques)
 * [Libraries and Programming Languages](#libraries-and-programming-languages)
-
+* [Software and Tools](#software-and-tools)
+* [Math and Statistics](#math-and-statistics)
 
 ## Machine Learning
 
@@ -164,8 +165,8 @@ Awesome Machine Learning Resources and References
 * Statistics and Probability
 
 -----
-## Websites and Videos
-### Websites
+## Technologies and Special Videos
+### Technologies
 * [Salma](http://www.salma.ai/) - The world's first Arabic personal voice assistant.
 
 ### Videos
