@@ -9,7 +9,7 @@ Awesome Machine Learning Resources and References
 * [Libraries and Programming Languages](#libraries-and-programming-languages)
 
 
-## Machine Learning Algorithms
+## Machine Learning
 
 ### Supervised
 > Supervised learning is a method used to enable machines to classify objects, problems or situations based on related data fed into the machines. (techopedia.com)
@@ -85,6 +85,9 @@ Awesome Machine Learning Resources and References
 
 ### Survival Analysis 
 * [Survival Analysis (March 2018)](https://towardsdatascience.com/survival-analysis-part-a-70213df21c2e) - An introduction to the concepts of Survival Analysis and its implementation in lifelines package for Python.
+
+### Data Structures
+* [VisuAlgo](https://visualgo.net/en) - visualising data structures and algorithms through animation
 
 -----
 ## Libraries and Programming Languages
