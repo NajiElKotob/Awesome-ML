@@ -71,21 +71,16 @@ Awesome Machine Learning Resources and References
 #### Temporal Difference (TD)
 #### Deep Adversarial Networks
 
-### Deep learning :star:
-
+### Deep Learning (DL) :star:
+* [Model Asset eXchange - IBM](https://developer.ibm.com/exchanges/models/) - A place for developers to find and use free and open source deep learning models.
 
 -----
-## Special Algorithms and Techniques
+## Special Algorithms and Techniques :fire:
 
 ### Natural language processing (NLP)
 > Natural language processing (NLP) is a form of AI that extracts meaning from human language to make decisions based on the information.
 * [5 Amazing Examples Of Natural Language Processing (NLP) In Practice](https://www.forbes.com/sites/bernardmarr/2019/06/03/5-amazing-examples-of-natural-language-processing-nlp-in-practice/#2908458b1b30) - Bernard Marr
 * [Your Guide to Natural Language Processing (NLP)](https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1)
-
-
-### Deep Learning (DL)
-* [Model Asset eXchange - IBM](https://developer.ibm.com/exchanges/models/) - A place for developers to find and use free and open source deep learning models.
-
 
 ### Deepfake
 * [Fake Videos of Real People (TED)](https://www.ted.com/talks/supasorn_suwajanakorn_fake_videos_of_real_people_and_how_to_spot_them?language=en#t-37041) - Do you think you're good at spotting fake videos, where famous people say things they've never said in real life?
