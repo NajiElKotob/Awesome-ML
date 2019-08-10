@@ -16,7 +16,7 @@ Awesome Machine Learning Resources and References
 
 ## Machine Learning
 
-### Supervised
+### Supervised :star:
 > Supervised learning is a method used to enable machines to classify objects, problems or situations based on related data fed into the machines. (techopedia.com)
 
 #### Regression
