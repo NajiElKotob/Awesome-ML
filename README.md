@@ -181,6 +181,7 @@ Awesome Machine Learning Resources and References
 
 ### Special Videos
 * [Will Self-Taught, A.I. Powered Robots Be the End of Us?](https://www.youtube.com/watch?v=IHc5Zt7qT6o) - World Science Festival (March 2019)
+* ["Project Soli" The Untouched | Developed by Google](https://www.youtube.com/watch?v=VA_12RS3fdM) - Baggage Of Knowledge (January 2019)
 * [Artificial Intelligence: Mankind's Last Invention](https://www.youtube.com/watch?v=Pls_q2aQzHg) - "It could be terrible and it could be great. It's not clear!" Aperture (October 2018)
 * [Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg) - Sam Harris (October 2016)
 
