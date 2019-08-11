@@ -13,6 +13,7 @@ Awesome Machine Learning Resources and References
 * [Libraries and Programming Languages](#libraries-and-programming-languages)
 * [Software and Tools](#software-and-tools)
 * [Math and Statistics](#math-and-statistics)
+* [Special Technologies and Videos](#special-technologies-and-videos)
 
 ## Machine Learning
 
@@ -167,9 +168,9 @@ Awesome Machine Learning Resources and References
 * Statistics and Probability
 
 -----
-## Technologies and Special Videos
-### Technologies
+## Special Technologies and Videos
+### Special Technologies
 * [Salma](http://www.salma.ai/) - The world's first Arabic personal voice assistant.
 
-### Videos
+### Special Videos
 * [Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg) - Sam Harris (October 2016)
