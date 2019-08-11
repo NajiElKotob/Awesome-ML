@@ -177,6 +177,7 @@ Awesome Machine Learning Resources and References
 * [This person does NOT exist](https://thispersondoesnotexist.com) - Every single photo on the site has been created by using a special kind of artificial intelligence algorithm called generative adversarial networks (GANs).
 
 ### Special Articles
+* [Never mind killer robots—here are six real AI dangers to watch out for in 2019](https://www.technologyreview.com/s/612689/never-mind-killer-robotshere-are-six-real-ai-dangers-to-watch-out-for-in-2019/) - by Will Knight and Karen Hao (January 2019)
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/) - "No one really knows how the most advanced algorithms do what they do. That could be a problem" - Will Knight (April 2017)
 
 ### Special Videos
