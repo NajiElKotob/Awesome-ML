@@ -175,6 +175,10 @@ Awesome Machine Learning Resources and References
 ### Special Technologies
 * [Salma](http://www.salma.ai/) - The world's first Arabic personal voice assistant.
 * [This person does NOT exist](https://thispersondoesnotexist.com) - Every single photo on the site has been created by using a special kind of artificial intelligence algorithm called generative adversarial networks (GANs).
+
+### Special Articles
+* [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/) - "No one really knows how the most advanced algorithms do what they do. That could be a problem" - Will Knight (April 2017)
+
 ### Special Videos
 * [Will Self-Taught, A.I. Powered Robots Be the End of Us?](https://www.youtube.com/watch?v=IHc5Zt7qT6o) - World Science Festival (March 2019)
 * [Artificial Intelligence: Mankind's Last Invention](https://www.youtube.com/watch?v=Pls_q2aQzHg) - "It could be terrible and it could be great. It's not clear!" Aperture (October 2018)
