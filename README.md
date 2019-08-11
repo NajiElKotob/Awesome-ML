@@ -86,12 +86,15 @@ Awesome Machine Learning Resources and References
 ### Deepfake
 * [Fake Videos of Real People (TED)](https://www.ted.com/talks/supasorn_suwajanakorn_fake_videos_of_real_people_and_how_to_spot_them?language=en#t-37041) - Do you think you're good at spotting fake videos, where famous people say things they've never said in real life?
 
+### Generative Adversarial Networks (GANs)
+* [Understanding Generative Adversarial Networks (GANs)](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29) - Building, step by step, the reasoning that leads to GANs (January 2019)
 
 ### Survival Analysis 
 * [Survival Analysis (March 2018)](https://towardsdatascience.com/survival-analysis-part-a-70213df21c2e) - An introduction to the concepts of Survival Analysis and its implementation in lifelines package for Python.
 
 ### Data Structures
 * [VisuAlgo](https://visualgo.net/en) - visualising data structures and algorithms through animation
+
 
 -----
 ## Libraries and Programming Languages
@@ -171,7 +174,7 @@ Awesome Machine Learning Resources and References
 ## Special Technologies and Videos
 ### Special Technologies
 * [Salma](http://www.salma.ai/) - The world's first Arabic personal voice assistant.
-
+* [This person does NOT exist](https://thispersondoesnotexist.com) - Every single photo on the site has been created by using a special kind of artificial intelligence algorithm called generative adversarial networks (GANs).
 ### Special Videos
 * [Will Self-Taught, A.I. Powered Robots Be the End of Us?](https://www.youtube.com/watch?v=IHc5Zt7qT6o) - World Science Festival (March 2019)
 * [Artificial Intelligence: Mankind's Last Invention](https://www.youtube.com/watch?v=Pls_q2aQzHg) - "It could be terrible and it could be great. It's not clear!" Aperture (October 2018)
