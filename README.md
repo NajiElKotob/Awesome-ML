@@ -22,21 +22,21 @@ Awesome Machine Learning Resources and References
 
 #### Regression
 ```Predict continuous values```
-
 * [Top 6 Regression Algorithms Used In Data Mining And Their Applications In Industry](https://www.analyticsindiamag.com/top-6-regression-algorithms-used-data-mining-applications-industry/)
 
-##### Linear
+##### Linear Regression
+
 
 
 #### Classification
 ```Predict discrete values```
 
-##### KNN
+##### KNN (K-nearest neighbors)
 ##### Logistic Regression
 ##### Naive Bayes Classifier
 * [Naive Bayes Classifier](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c) - Rohith Gandhi (May 2018)
 ##### Decision Trees
-##### Support Vector Machines (SVM)
+##### SVM (Support Vector Machines)
 ##### Neural Networks
 
 
@@ -74,6 +74,19 @@ Awesome Machine Learning Resources and References
 
 ### Deep Learning (DL) :star:
 * [Model Asset eXchange - IBM](https://developer.ibm.com/exchanges/models/) - A place for developers to find and use free and open source deep learning models.
+
+### Time-Series Analysis :star:
+#### Exponential smoothing
+#### ARIMA
+#### GARCH
+
+### Image Processing :star:
+#### Artificial Neural Networks
+#### Keras
+
+### Stochastic Processes :star:
+#### Monte-Carlo Simulation and other probabilistic approaches
+
 
 -----
 ## Special Algorithms and Techniques :fire:
