@@ -200,4 +200,7 @@ Awesome Machine Learning Resources and References
 * ["Project Soli" The Untouched | Developed by Google](https://www.youtube.com/watch?v=VA_12RS3fdM) - Baggage Of Knowledge (January 2019)
 * [Artificial Intelligence: Mankind's Last Invention](https://www.youtube.com/watch?v=Pls_q2aQzHg) - "It could be terrible and it could be great. It's not clear!" Aperture (October 2018)
 * [Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg) - Sam Harris (October 2016)
-
+* Robots
+  * [BBC Documentary - Hyper Evolution : Rise Of The Robots (Part 1)](https://www.youtube.com/watch?v=hRuBZLe8vfs&t=11s) - (April 2018)
+  * [BBC Documentary - Hyper Evolution : Rise Of The Robots (Part 2)](https://www.youtube.com/watch?v=9SA2WLDB65A) - (May 2018)
+  * [BBC Documentary - Hyper Evolution : Rise Of The Robots (Part 3)](https://www.youtube.com/watch?v=hRuBZLe8vfs&t=11s) - (May 2018)
