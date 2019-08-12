@@ -68,21 +68,23 @@ Awesome Machine Learning Resources and References
 
 ### Reinforcement :star:
 > Reinforcement learning, in the context of artificial intelligence, is a type of dynamic programming that trains algorithms using a system of reward and punishment (techopedia.com), some applications of the reinforcement learning algorithms are computer played board games (Chess, Go), robotic hands, and self-driving cars.
+#### Deep Adversarial Networks
 #### Q-learning
 #### Temporal Difference (TD)
-#### Deep Adversarial Networks
+
 
 ### Deep Learning (DL) :star:
 * [Model Asset eXchange - IBM](https://developer.ibm.com/exchanges/models/) - A place for developers to find and use free and open source deep learning models.
 
 ### Time-Series Analysis :star:
-#### Exponential smoothing
 #### ARIMA
+#### Exponential smoothing
 #### GARCH
 
 ### Image Processing :star:
 #### Artificial Neural Networks
 #### Keras
+* [Image classification from scratch in keras](https://towardsdatascience.com/image-detection-from-scratch-in-keras-f314872006c9) - Beginner friendly, intermediate exciting and expert refreshing.
 
 ### Stochastic Processes :star:
 #### Monte-Carlo Simulation and other probabilistic approaches
