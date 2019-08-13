@@ -160,6 +160,8 @@ Awesome Machine Learning Resources and References
 * [Few Industries Have More To Offer And To Gain From Big Data Than Telecommunications](http://datasciencegyan.com/few-industries-have-more-to-offer-and-to-gain-from-big-data-than-telecommunications/) 
 * [Supervised and Unsupervised Learning](https://medium.com/datadriveninvestor/supervised-and-unsupervised-learning-7281050992a0) - Vineet Maheshwari
 * [Data science and machine learning](https://www.ibm.com/analytics/machine-learning) - Collaborate across teams, use the top open source tools and scale at the speed your business requires with this leading data science platform.
+* [A Complete Machine Learning Project Walk-Through in Python: Part One](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
+* [A Complete Machine Learning Walk-Through in Python: Part Two](https://towardsdatascience.com/a-complete-machine-learning-project-walk-through-in-python-part-two-300f1f8147e2)
 
 ## ML Books
 * [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3)
