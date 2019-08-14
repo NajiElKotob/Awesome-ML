@@ -152,6 +152,7 @@ Awesome Machine Learning Resources and References
 
 -----
 ## ML Articles
+* [Understanding Key Terms in AI](https://medium.com/datadriveninvestor/understanding-key-terms-in-ai-415baa8b37a1) - Rajesh Narayanan
 * [Microsoft has a wild hologram that translates HoloLens keynotes into Japanese](https://www.theverge.com/2019/7/17/20697976/microsoft-hololens-hologram-keynote-japanese-translation-microsoft-inspire)
 * [Novel AI tools to accelerate cancer research](https://www.ibm.com/blogs/research/2019/07/ai-tools-for-cancer-research/) 
 * [Introduction to Recommender System](https://hackernoon.com/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75) - Introduction to Recommender System. Part 1 (Collaborative Filtering, Singular Value Decomposition)
