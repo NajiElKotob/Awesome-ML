@@ -211,3 +211,8 @@ Awesome Machine Learning Resources and References
   * [BBC Documentary - Hyper Evolution : Rise Of The Robots (Part 1)](https://www.youtube.com/watch?v=hRuBZLe8vfs&t=11s) - (April 2018)
   * [BBC Documentary - Hyper Evolution : Rise Of The Robots (Part 2)](https://www.youtube.com/watch?v=9SA2WLDB65A) - (May 2018)
   * [BBC Documentary - Hyper Evolution : Rise Of The Robots (Part 3)](https://www.youtube.com/watch?v=hRuBZLe8vfs&t=11s) - (May 2018)
+
+### Special Performance
+* [Top500](https://www.top500.org/) - TOP500 Becomes a Petaflop Club for Supercomputers
+* [Blue Gene (IBM)](https://www.ibm.com/ibm/history/ibm100/us/en/icons/bluegene/) - IBM
+* [Mira](https://www.alcf.anl.gov/mira) - Mira Ushers in a New Era of Scientific Supercomputing
