@@ -40,7 +40,7 @@ Awesome Machine Learning Resources and References
 ##### Neural Networks
 
 
-### Unsupervided :star:
+### Unsupervised :star:
 > Unsupervised learning is a method used to enable machines to classify both tangible and intangible objects without providing the machines any prior information about the objects. (techopedia.com)
 
 #### Clustering
