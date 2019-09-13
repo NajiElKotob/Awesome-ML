@@ -163,9 +163,11 @@ Awesome Machine Learning Resources and References
 * [Data science and machine learning](https://www.ibm.com/analytics/machine-learning) - Collaborate across teams, use the top open source tools and scale at the speed your business requires with this leading data science platform.
 * [A Complete Machine Learning Project Walk-Through in Python: Part One](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
 * [A Complete Machine Learning Walk-Through in Python: Part Two](https://towardsdatascience.com/a-complete-machine-learning-project-walk-through-in-python-part-two-300f1f8147e2)
+* [Machine Learning Resources](https://www.ritchieng.com/machine-learning-resources/)
 
 ## ML Books
 * [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3)
+
 
 -----   
 ## Math and Statistics
