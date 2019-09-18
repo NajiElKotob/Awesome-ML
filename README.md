@@ -164,6 +164,8 @@ Awesome Machine Learning Resources and References
 * [A Complete Machine Learning Project Walk-Through in Python: Part One](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
 * [A Complete Machine Learning Walk-Through in Python: Part Two](https://towardsdatascience.com/a-complete-machine-learning-project-walk-through-in-python-part-two-300f1f8147e2)
 * [Machine Learning Resources](https://www.ritchieng.com/machine-learning-resources/)
+* [The Birthplace of AI](https://medium.com/cantors-paradise/the-birthplace-of-ai-9ab7d4e5fb00) - The 1956 Dartmouth Workshop
+
 
 ## ML Books
 * [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3)
