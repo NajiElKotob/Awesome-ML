@@ -25,6 +25,11 @@ Awesome Machine Learning Resources and References
 * [Top 6 Regression Algorithms Used In Data Mining And Their Applications In Industry](https://www.analyticsindiamag.com/top-6-regression-algorithms-used-data-mining-applications-industry/)
 
 ##### Linear Regression
+* [Introduction to Machine Learning Algorithms: Linear Regression](https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a) - Rohith Gandhi
+* [Is Regression Analysis Really Machine Learning?](https://www.kdnuggets.com/2017/06/regression-analysis-really-machine-learning.html) - Matthew Mayo, KDnuggets
+* [Linear Regression Example - scikit-learn](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html)
+* [Essentials of Linear Regression in Python](https://www.datacamp.com/community/tutorials/essentials-linear-regression-python) - 
+Sayak Paul
 
 
 
