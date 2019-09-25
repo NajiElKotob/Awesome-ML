@@ -6,6 +6,7 @@ Awesome Machine Learning Resources and References
 ## Table of contents
 * [Machine Learning](#machine-learning)
   * [Supervised](#supervised)
+    * [Regression](#Regression)
   * [Unsupervided](#unsupervided)
   * [Semi-supervised](#semi-supervised)
   * [Reinforcement](#reinforcement)
@@ -157,6 +158,7 @@ Sayak Paul
 
 -----
 ## ML Articles
+* [Top Algorithms and Methods Used by Data Scientists](https://www.kdnuggets.com/2016/09/poll-algorithms-used-data-scientists.html) - KDnuggets
 * [Understanding Key Terms in AI](https://medium.com/datadriveninvestor/understanding-key-terms-in-ai-415baa8b37a1) - Rajesh Narayanan
 * [Microsoft has a wild hologram that translates HoloLens keynotes into Japanese](https://www.theverge.com/2019/7/17/20697976/microsoft-hololens-hologram-keynote-japanese-translation-microsoft-inspire)
 * [Novel AI tools to accelerate cancer research](https://www.ibm.com/blogs/research/2019/07/ai-tools-for-cancer-research/) 
