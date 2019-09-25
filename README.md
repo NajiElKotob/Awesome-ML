@@ -30,8 +30,8 @@ Awesome Machine Learning Resources and References
 * [Linear Regression Example - scikit-learn](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html)
 * [Essentials of Linear Regression in Python](https://www.datacamp.com/community/tutorials/essentials-linear-regression-python) - 
 Sayak Paul
-
-
+* [Linear Regression with Python](https://datascienceplus.com/linear-regression-with-python/) - Hardik Jaroli
+* [Linear Regression Algorithm from Scratch](https://www.edureka.co/blog/linear-regression-in-python/) - edureka
 
 #### Classification
 ```Predict discrete values```
