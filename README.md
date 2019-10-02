@@ -35,6 +35,10 @@ Sayak Paul
 * [Linear Regression Algorithm from Scratch](https://www.edureka.co/blog/linear-regression-in-python/) - edureka
 * [How well does your regression equation truly represent your set of data](https://mathbits.com/MathBits/TISection/Statistics2/correlation.htm) - Correlation Coefficient, r and Coefficient of Determination, r 2  or R2
 
+##### Multiple Linear Regression
+* [Introduction to Feature Selection and Backward Elimination](https://medium.com/@mayankshah_85820/machine-learning-feature-selection-with-backward-elimination-955894654026) - Mayank Shah
+
+
 #### Classification
 ```Predict discrete values```
 
