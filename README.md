@@ -33,6 +33,7 @@ Awesome Machine Learning Resources and References
 Sayak Paul
 * [Linear Regression with Python](https://datascienceplus.com/linear-regression-with-python/) - Hardik Jaroli
 * [Linear Regression Algorithm from Scratch](https://www.edureka.co/blog/linear-regression-in-python/) - edureka
+* [How well does your regression equation truly represent your set of data](https://mathbits.com/MathBits/TISection/Statistics2/correlation.htm) - Correlation Coefficient, r and Coefficient of Determination, r 2  or R2
 
 #### Classification
 ```Predict discrete values```
