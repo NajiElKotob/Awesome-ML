@@ -33,6 +33,7 @@ Awesome Machine Learning Resources and References
 Sayak Paul
 * [Linear Regression with Python](https://datascienceplus.com/linear-regression-with-python/) - Hardik Jaroli
 * [Linear Regression Algorithm from Scratch](https://www.edureka.co/blog/linear-regression-in-python/) - edureka
+* [Introduction and regression (IBM)](https://developer.ibm.com/articles/os-weka1/) :star:
 * [How well does your regression equation truly represent your set of data](https://mathbits.com/MathBits/TISection/Statistics2/correlation.htm) - Correlation Coefficient, r and Coefficient of Determination, r 2  or R2
 
 ##### Multiple Linear Regression
@@ -237,3 +238,5 @@ Sayak Paul
 * [Top500](https://www.top500.org/) - TOP500 Becomes a Petaflop Club for Supercomputers
 * [Blue Gene (IBM)](https://www.ibm.com/ibm/history/ibm100/us/en/icons/bluegene/) - IBM
 * [Mira](https://www.alcf.anl.gov/mira) - Mira Ushers in a New Era of Scientific Supercomputing
+* Quantum
+  * [Google claims it has finally reached quantum supremacy](https://www.newscientist.com/article/2217347-google-claims-it-has-finally-reached-quantum-supremacy/#ixzz61HzdOs4r)
