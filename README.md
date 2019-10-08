@@ -146,6 +146,8 @@ Sayak Paul
 
 ## Software and Tools
 * [KNIME](https://www.knime.com) - KNIME, the Konstanz Information Miner, is a free and open-source data analytics, reporting and integration platform
+  * [KNIME Server](https://www.knime.com/knime-server)
+  * [KNIME WebPortal](https://www.knime.com/knime-software/knime-webportal)
 * [RapidMiner](https://rapidminer.com) - RapidMiner is a data science platform for teams that unites data prep, machine learning, and predictive model deployment.
 * [Weka](https://www.cs.waikato.ac.nz/ml/weka/
 ) - Weka is a collection of machine learning algorithms for data mining tasks. It contains tools for data preparation, classification, regression, clustering, association rules mining, and visualization. 
