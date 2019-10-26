@@ -200,6 +200,9 @@ Sayak Paul
   * t-Tests
 * Probability Basics
 
+### Research
+* [Basic vs. Applied Research](https://www.utep.edu/couri/about-ug-research/basic-vs-applied-research.html) - utep.edu
+
 ### Other Topics
 * Equations and Functions
   * [The Distributive Property (Video)](https://www.youtube.com/watch?v=v-6MShC82ow) - Algebra Basics: The Distributive Property - Math Antics
