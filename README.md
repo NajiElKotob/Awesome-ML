@@ -220,6 +220,7 @@ Sayak Paul
 ### Special Technologies
 * [Salma](http://www.salma.ai/) - The world's first Arabic personal voice assistant.
 * [This person does NOT exist](https://thispersondoesnotexist.com) - Every single photo on the site has been created by using a special kind of artificial intelligence algorithm called generative adversarial networks (GANs).
+* [PREDPOL](https://www.predpol.com/) - Predict critical events and gain actionable insight
 
 ### Special Articles
 * [Never mind killer robots—here are six real AI dangers to watch out for in 2019](https://www.technologyreview.com/s/612689/never-mind-killer-robotshere-are-six-real-ai-dangers-to-watch-out-for-in-2019/) - by Will Knight and Karen Hao (January 2019)
