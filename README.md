@@ -44,13 +44,18 @@ Sayak Paul
 ```Predict discrete values```
 
 ##### KNN (K-nearest neighbors)
+
 ##### Logistic Regression
+
 ##### Naive Bayes Classifier
 * [Naive Bayes Classifier](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c) - Rohith Gandhi (May 2018)
-##### Decision Trees
-##### SVM (Support Vector Machines)
-##### Neural Networks
 
+##### Decision Trees
+
+##### SVM (Support Vector Machines)
+
+##### Neural Networks
+* [Neural Network Architectures](https://www.youtube.com/watch?v=oJNHXPs0XDk) - Steve Brunton
 
 ### Unsupervised :star:
 > Unsupervised learning is a method used to enable machines to classify both tangible and intangible objects without providing the machines any prior information about the objects. (techopedia.com)
