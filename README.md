@@ -94,16 +94,22 @@ Sayak Paul
 * [Model Asset eXchange - IBM](https://developer.ibm.com/exchanges/models/) - A place for developers to find and use free and open source deep learning models.
 
 ### Time-Series Analysis :star:
+
 #### ARIMA
+
 #### Exponential smoothing
+
 #### GARCH
 
 ### Image Processing :star:
+
 #### Artificial Neural Networks
+
 #### Keras
 * [Image classification from scratch in keras](https://towardsdatascience.com/image-detection-from-scratch-in-keras-f314872006c9) - Beginner friendly, intermediate exciting and expert refreshing.
 
 ### Stochastic Processes :star:
+
 #### Monte-Carlo Simulation and other probabilistic approaches
 
 
@@ -127,6 +133,12 @@ Sayak Paul
 ### Data Structures
 * [VisuAlgo](https://visualgo.net/en) - visualising data structures and algorithms through animation
 
+### Recommendation System
+* [Netflix Recommendation System (Course)](https://www.coursera.org/lecture/networks-illustrated/netflix-recommendation-system-TYOZV) - 
+* [Introduction to Recommender System](https://hackernoon.com/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75) - Introduction to Recommender System. Part 1 (Collaborative Filtering, Singular Value Decomposition)
+
+### Predictive Delivery
+* [How predictive delivery has shaped the logistics sector](https://www.eurosender.com/blog/en/how-predictive-delivery-shaped-logistics-sector/) - EuroSender
 
 -----
 ## Libraries and Programming Languages
@@ -175,7 +187,6 @@ Sayak Paul
 * [Understanding Key Terms in AI](https://medium.com/datadriveninvestor/understanding-key-terms-in-ai-415baa8b37a1) - Rajesh Narayanan
 * [Microsoft has a wild hologram that translates HoloLens keynotes into Japanese](https://www.theverge.com/2019/7/17/20697976/microsoft-hololens-hologram-keynote-japanese-translation-microsoft-inspire)
 * [Novel AI tools to accelerate cancer research](https://www.ibm.com/blogs/research/2019/07/ai-tools-for-cancer-research/) 
-* [Introduction to Recommender System](https://hackernoon.com/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75) - Introduction to Recommender System. Part 1 (Collaborative Filtering, Singular Value Decomposition)
 * [Why One-Hot Encode Data in Machine Learning?](https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/)
 * [Artificial Intelligence, Machine Learning, and Deep Learning: Same context, Different concepts](https://master-iesc-angers.com/artificial-intelligence-machine-learning-and-deep-learning-same-context-different-concepts/)
 * [Few Industries Have More To Offer And To Gain From Big Data Than Telecommunications](http://datasciencegyan.com/few-industries-have-more-to-offer-and-to-gain-from-big-data-than-telecommunications/) 
