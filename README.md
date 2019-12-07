@@ -7,6 +7,7 @@ Awesome Machine Learning Resources and References
 * [Machine Learning](#machine-learning)
   * [Supervised](#supervised-star)
     * [Regression](#Regression)
+    * [Classification](#classification)
   * [Unsupervided](#unsupervided-star)
   * [Semi-supervised](#semi-supervised-star)
   * [Reinforcement](#reinforcement-star)
