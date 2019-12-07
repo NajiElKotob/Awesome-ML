@@ -5,12 +5,12 @@ Awesome Machine Learning Resources and References
 
 ## Table of contents
 * [Machine Learning](#machine-learning)
-  * [Supervised](#supervised)
+  * [Supervised](#supervised-star)
     * [Regression](#Regression)
-  * [Unsupervided](#unsupervided)
-  * [Semi-supervised](#semi-supervised)
-  * [Reinforcement](#reinforcement)
-* [Special Algorithms and Techniques](#special-algorithms-and-techniques)
+  * [Unsupervided](#unsupervided-star)
+  * [Semi-supervised](#semi-supervised-star)
+  * [Reinforcement](#reinforcement-star)
+* [Special Algorithms and Techniques](#special-algorithms-and-techniques-fire)
 * [Libraries and Programming Languages](#libraries-and-programming-languages)
 * [Software and Tools](#software-and-tools)
 * [Math and Statistics](#math-and-statistics)
