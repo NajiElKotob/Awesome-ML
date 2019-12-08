@@ -8,7 +8,7 @@ Awesome Machine Learning Resources and References
   * [Supervised](#supervised-star)
     * [Regression](#Regression)
     * [Classification](#classification)
-  * [Unsupervided](#unsupervided-star)
+  * [Unsupervided](#unsupervised-star)
   * [Semi-supervised](#semi-supervised-star)
   * [Reinforcement](#reinforcement-star)
 * [Special Algorithms and Techniques](#special-algorithms-and-techniques-fire)
