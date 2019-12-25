@@ -249,10 +249,12 @@ Sayak Paul
 * [Will Self-Taught, A.I. Powered Robots Be the End of Us?](https://www.youtube.com/watch?v=IHc5Zt7qT6o) - World Science Festival (March 2019)
 * ["Project Soli" The Untouched | Developed by Google](https://www.youtube.com/watch?v=VA_12RS3fdM) - Baggage Of Knowledge (January 2019)
 * [Artificial Intelligence: Mankind's Last Invention](https://www.youtube.com/watch?v=Pls_q2aQzHg) - "It could be terrible and it could be great. It's not clear!" Aperture (October 2018)
+* [Interfacing with devices through silent speech](https://www.youtube.com/watch?v=RuUSc53Xpeg) - MIT Media Lab (April 2018)
 * [Drones of the Future are Here! AI, Autonomous Weapons](https://www.youtube.com/watch?v=u3n38GAVXGA) - (November 2017)
 * [The incredible inventions of intuitive AI | Maurice Conti](https://www.youtube.com/watch?v=aR5N2Jl8k14) - (March 2017)
 * [Science Documentary 2016 | Big Data](https://www.youtube.com/watch?time_continue=3&v=m9D-v6r3NJQ) - Best Documentary (November 2016)
 * [Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg) - Sam Harris (October 2016)
+* [Satya Nadella introducing Seeing AI Prototype at Build 2016 conference](https://youtu.be/rVF2duPVUTY?t=64) - Microsoft Research (April 2016)
 * [Meet the dazzling flying machines of the future | Raffaello D'Andrea](https://www.youtube.com/watch?v=RCXGpEmFbOw) - (March 2016)
 * Robots
   * [BBC Documentary - Hyper Evolution : Rise Of The Robots (Part 1)](https://www.youtube.com/watch?v=hRuBZLe8vfs&t=11s) - (April 2018)
