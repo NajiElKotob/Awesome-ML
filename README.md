@@ -252,6 +252,7 @@ Sayak Paul
 * [Interfacing with devices through silent speech](https://www.youtube.com/watch?v=RuUSc53Xpeg) - MIT Media Lab (April 2018)
 * [Drones of the Future are Here! AI, Autonomous Weapons](https://www.youtube.com/watch?v=u3n38GAVXGA) - (November 2017)
 * [The incredible inventions of intuitive AI | Maurice Conti](https://www.youtube.com/watch?v=aR5N2Jl8k14) - (March 2017)
+* [Introducing Amazon Go and the world’s most advanced shopping technology](https://www.youtube.com/watch?v=NrmMk1Myrxc) - Amazon (December 2016)
 * [Science Documentary 2016 | Big Data](https://www.youtube.com/watch?time_continue=3&v=m9D-v6r3NJQ) - Best Documentary (November 2016)
 * [Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg) - Sam Harris (October 2016)
 * [Satya Nadella introducing Seeing AI Prototype at Build 2016 conference](https://youtu.be/rVF2duPVUTY?t=64) - Microsoft Research (April 2016)
