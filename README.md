@@ -1,7 +1,10 @@
 # Awesome ML
 Awesome Machine Learning Resources and References
 
-[Alpha Version]
+
+“Machine Learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.” [Daniel Faggella](https://emerj.com/ai-glossary-terms/what-is-machine-learning/)
+
+-----
 
 ## Table of contents
 * [Machine Learning](#machine-learning)
