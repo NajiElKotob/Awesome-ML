@@ -170,6 +170,7 @@ Sayak Paul
 -----
 
 ## Software and Tools
+### Data Science Software Platforms
 * [KNIME](https://www.knime.com) - KNIME, the Konstanz Information Miner, is a free and open-source data analytics, reporting and integration platform
   * [KNIME Server](https://www.knime.com/knime-server)
   * [KNIME WebPortal](https://www.knime.com/knime-software/knime-webportal)
@@ -181,6 +182,12 @@ Sayak Paul
 * [H2O](https://www.h2o.ai) - Open Source Leader in AI and ML
 * [Alteryx](https://www.alteryx.com) - A leader in data science and self-service analytics
 * [ONNX](https://onnx.ai/) - ONNX is an open format to represent deep learning models. With ONNX, AI developers can more easily move models between state-of-the-art tools and choose the combination that is best for them. ONNX is developed and supported by a community of partners.
+
+### APIs
+* [Cognitive Services (Microsoft)](https://azure.microsoft.com/en-us/try/cognitive-services/my-apis/)
+* [IBM Watson](https://www.ibm.com/watson)
+* [Google Cloud AI](https://cloud.google.com/products/ai/)
+* [Machine Learning on AWS](https://aws.amazon.com/machine-learning/)
 
 -----
 ## ML Videos
