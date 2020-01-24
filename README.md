@@ -271,7 +271,7 @@ Sayak Paul
 * [Introducing Amazon Go and the world’s most advanced shopping technology](https://www.youtube.com/watch?v=NrmMk1Myrxc) - Amazon (December 2016)
 * [Science Documentary 2016 | Big Data](https://www.youtube.com/watch?time_continue=3&v=m9D-v6r3NJQ) - Best Documentary (November 2016)
 * [Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg) - Sam Harris (October 2016)
-* [Satya Nadella introducing Seeing AI Prototype at Build 2016 conference](https://youtu.be/rVF2duPVUTY?t=64) - Microsoft Research (April 2016)
+* [Satya Nadella introducing Seeing AI Prototype at Build 2016 conference (Microsoft Research)](https://youtu.be/rVF2duPVUTY?t=64) - Shaikh, who lost his sight when he was seven, helped develop the project, which uses computer vision and natural language processing to describe a person's surroundings, read text, answer questions and even identify emotions on people's faces.  (April 2016)
 * [Meet the dazzling flying machines of the future | Raffaello D'Andrea](https://www.youtube.com/watch?v=RCXGpEmFbOw) - (March 2016)
 * Robots
   * [BBC Documentary - Hyper Evolution : Rise Of The Robots (Part 1)](https://www.youtube.com/watch?v=hRuBZLe8vfs&t=11s) - (April 2018)
