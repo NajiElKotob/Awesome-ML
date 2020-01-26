@@ -262,6 +262,7 @@ Sayak Paul
 ### Special Videos
 * [Samsung's NEON Revealed - Leaked Trailer Looks Perfectly Human!](https://www.youtube.com/watch?v=Q6f6EXX-79w&feature=emb_logo) - Good Content | Tech (January 2020)
 * [How Close Are We to a Complete Map of the Human Brain?](https://www.youtube.com/watch?v=qlJa6qH4BAs) - Seeker (May 2019)
+  * [This map of a fly’s brain connectivity is the best we’ve ever seen](https://www.technologyreview.com/f/615084/this-map-of-a-fruit-flys-brain-connectivity-is-the-biggest-one-weve-ever-seen/) - MIT Technology Review (January 2020)
 * [Will Self-Taught, A.I. Powered Robots Be the End of Us?](https://www.youtube.com/watch?v=IHc5Zt7qT6o) - World Science Festival (March 2019)
 * ["Project Soli" The Untouched | Developed by Google](https://www.youtube.com/watch?v=VA_12RS3fdM) - Baggage Of Knowledge (January 2019)
 * [Artificial Intelligence: Mankind's Last Invention](https://www.youtube.com/watch?v=Pls_q2aQzHg) - "It could be terrible and it could be great. It's not clear!" Aperture (October 2018)
