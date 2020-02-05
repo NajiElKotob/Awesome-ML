@@ -150,6 +150,9 @@ Sayak Paul
 ### Predictive Delivery
 * [How predictive delivery has shaped the logistics sector](https://www.eurosender.com/blog/en/how-predictive-delivery-shaped-logistics-sector/) - EuroSender
 
+### Visual Intelligence
+* [Custom Vision](https://www.customvision.ai/) - Microsoft
+
 -----
 ## Libraries and Programming Languages
 ### C#
