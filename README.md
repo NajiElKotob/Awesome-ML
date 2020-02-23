@@ -203,6 +203,7 @@ Sayak Paul
 
 -----
 ## ML Articles
+* [Artificial Intelligence (AI) vs. Machine Learning vs. Deep Learning](https://pathmind.com/wiki/ai-vs-machine-learning-vs-deep-learning) - Chris Nicholson
 * [Top Algorithms and Methods Used by Data Scientists](https://www.kdnuggets.com/2016/09/poll-algorithms-used-data-scientists.html) - KDnuggets
 * [Understanding Key Terms in AI](https://medium.com/datadriveninvestor/understanding-key-terms-in-ai-415baa8b37a1) - Rajesh Narayanan
 * [Microsoft has a wild hologram that translates HoloLens keynotes into Japanese](https://www.theverge.com/2019/7/17/20697976/microsoft-hololens-hologram-keynote-japanese-translation-microsoft-inspire)
