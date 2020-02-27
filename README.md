@@ -265,6 +265,7 @@ Sayak Paul
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/) - "No one really knows how the most advanced algorithms do what they do. That could be a problem" - Will Knight (April 2017)
 
 ### Special Videos
+* [Introducing Quantum Impact](https://www.youtube.com/watch?v=ba88EwG5b0Q) - Microsoft (February 2020)
 * [Samsung's NEON Revealed - Leaked Trailer Looks Perfectly Human!](https://www.youtube.com/watch?v=Q6f6EXX-79w&feature=emb_logo) - Good Content | Tech (January 2020)
 * [How Close Are We to a Complete Map of the Human Brain?](https://www.youtube.com/watch?v=qlJa6qH4BAs) - Seeker (May 2019)
   * [This map of a fly’s brain connectivity is the best we’ve ever seen](https://www.technologyreview.com/f/615084/this-map-of-a-fruit-flys-brain-connectivity-is-the-biggest-one-weve-ever-seen/) - MIT Technology Review (January 2020)
