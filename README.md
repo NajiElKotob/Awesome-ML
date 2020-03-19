@@ -250,6 +250,9 @@ Sayak Paul
 -----
 ## Special Technologies and Videos
 
+### Special Websites
+* [Welcome AI](https://welcome.ai/) - AI Products, Case Studies, Technologies and more
+
 ### Special tools
 * [backronym](https://www.infornopolitan.xyz/backronym) - Wow
   * [How to generate ideas in Machine Learning?](https://medium.com/datadriveninvestor/how-to-generate-ideas-in-machine-learning-bdb9a7267392) 
