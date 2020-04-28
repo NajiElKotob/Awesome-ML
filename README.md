@@ -258,6 +258,7 @@ Sayak Paul
   * [How to generate ideas in Machine Learning?](https://medium.com/datadriveninvestor/how-to-generate-ideas-in-machine-learning-bdb9a7267392) 
 
 ### Special Technologies
+* [Talk to Transformer](https://talktotransformer.com/) - See how a modern neural network completes your text (talktotransformer.com)
 * [Salma](http://www.salma.ai/) - The world's first Arabic personal voice assistant.
 * [This person does NOT exist](https://thispersondoesnotexist.com) - Every single photo on the site has been created by using a special kind of artificial intelligence algorithm called generative adversarial networks (GANs).
 * [PREDPOL](https://www.predpol.com/) - Predict critical events and gain actionable insight
