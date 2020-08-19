@@ -280,6 +280,7 @@ Sayak Paul
 * [Artificial Intelligence: Mankind's Last Invention](https://www.youtube.com/watch?v=Pls_q2aQzHg) - "It could be terrible and it could be great. It's not clear!" Aperture (October 2018)
 * [Interfacing with devices through silent speech](https://www.youtube.com/watch?v=RuUSc53Xpeg) - MIT Media Lab (April 2018)
 * [What is the Cambridge Analytica scandal?](https://www.youtube.com/watch?v=Q91nvbJSmS4) - The Guardian (March 2018)
+* [The Real Reason to be Afraid of Artificial Intelligence](https://www.youtube.com/watch?v=TRzBk_KuIaM) - Peter Haas (December 2017)
 * [Drones of the Future are Here! AI, Autonomous Weapons](https://www.youtube.com/watch?v=u3n38GAVXGA) - (November 2017)
 * [The incredible inventions of intuitive AI | Maurice Conti](https://www.youtube.com/watch?v=aR5N2Jl8k14) - (March 2017)
 * [Introducing Amazon Go and the world’s most advanced shopping technology](https://www.youtube.com/watch?v=NrmMk1Myrxc) - Amazon (December 2016)
