@@ -97,12 +97,6 @@ Sayak Paul
 #### Temporal Difference (TD)
 
 
-### Deep Learning (DL) :star:
-* [What is the difference between Deep Learning and Machine Learning?](https://quantdare.com/what-is-the-difference-between-deep-learning-and-machine-learning/)
-* [Teachable Machine](https://teachablemachine.withgoogle.com/) - Train a computer to recognize your own images, sounds, & poses.
-* [Model Asset eXchange - IBM](https://developer.ibm.com/exchanges/models/) - A place for developers to find and use free and open source deep learning models.
-
-
 ### Time-Series Analysis :star:
 
 #### ARIMA
@@ -121,6 +115,13 @@ Sayak Paul
 ### Stochastic Processes :star:
 
 #### Monte-Carlo Simulation and other probabilistic approaches
+
+
+## Deep Learning (DL) :star:
+* [What is the difference between Deep Learning and Machine Learning?](https://quantdare.com/what-is-the-difference-between-deep-learning-and-machine-learning/)
+* [Teachable Machine](https://teachablemachine.withgoogle.com/) - Train a computer to recognize your own images, sounds, & poses.
+* [Model Asset eXchange - IBM](https://developer.ibm.com/exchanges/models/) - A place for developers to find and use free and open source deep learning models.
+
 
 
 -----
