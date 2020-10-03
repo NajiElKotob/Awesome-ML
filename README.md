@@ -197,14 +197,15 @@ Sayak Paul
 * [Machine Learning on AWS](https://aws.amazon.com/machine-learning/)
 
 -----
-## ML Videos
+## AI, ML and DL
+
+### Videos
 * [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU&feature=youtu.be) - This is a talk for people who know code, but who don’t necessarily know machine learning. 
 * [Data Mining with Weka](https://www.youtube.com/user/WekaMOOC) - Weka MOOC
 * [Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Machine Learning Recipes with Josh Gordon
 * [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) - StatQuest with Josh Starmer 
 
------
-## ML Articles
+### Articles
 * [Artificial Intelligence (AI) vs. Machine Learning vs. Deep Learning](https://pathmind.com/wiki/ai-vs-machine-learning-vs-deep-learning) - Chris Nicholson
 * [Top Algorithms and Methods Used by Data Scientists](https://www.kdnuggets.com/2016/09/poll-algorithms-used-data-scientists.html) - KDnuggets
 * [Understanding Key Terms in AI](https://medium.com/datadriveninvestor/understanding-key-terms-in-ai-415baa8b37a1) - Rajesh Narayanan
@@ -221,33 +222,8 @@ Sayak Paul
 * [The Birthplace of AI](https://medium.com/cantors-paradise/the-birthplace-of-ai-9ab7d4e5fb00) - The 1956 Dartmouth Workshop
 * [The Seven Patterns Of AI](https://www.forbes.com/sites/cognitiveworld/2019/09/17/the-seven-patterns-of-ai/#1d0a714812d0) - Kathleen Walch
 
-## ML Books
+### Books
 * [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3)
-
-
------   
-## Math and Statistics
-### Statistics Primer
-* What is data?
-* Population vs. Sample 
-* Measures of Central Tendency 
-* Measures of Variability 
-* Hypothesis Testing 
-* Measures of Association
-  * Correlation Coefficients 
-* Comparative Measures 
-  * t-Tests
-* Probability Basics
-
-### Research
-* [Basic vs. Applied Research](https://www.utep.edu/couri/about-ug-research/basic-vs-applied-research.html) - utep.edu
-
-### Other Topics
-* Equations and Functions
-  * [The Distributive Property (Video)](https://www.youtube.com/watch?v=v-6MShC82ow) - Algebra Basics: The Distributive Property - Math Antics
-* Derivatives and Optimizations
-* Vectors and Matrices
-* Statistics and Probability
 
 -----
 ## Special Technologies and Videos
