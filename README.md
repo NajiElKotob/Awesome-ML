@@ -14,6 +14,7 @@ Awesome Machine Learning Resources and References
   * [Unsupervided](#unsupervised-star)
   * [Semi-supervised](#semi-supervised-star)
   * [Reinforcement](#reinforcement-star)
+* [Deep Learning](#deep-learning-dl-star)
 * [Special Algorithms and Techniques](#special-algorithms-and-techniques-fire)
 * [Libraries and Programming Languages](#libraries-and-programming-languages)
 * [Software and Tools](#software-and-tools)
