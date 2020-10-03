@@ -20,7 +20,7 @@ Awesome Machine Learning Resources and References
 * [Software and Tools](#software-and-tools)
   * [Data Science Software Platforms](#data-science-software-platforms)
   * [APIs](#apis)
-* [Math and Statistics](#math-and-statistics)
+* [Learn ML](#learn-ml)
 * [Special Technologies and Videos](#special-technologies-and-videos)
 
 ## Machine Learning
@@ -197,7 +197,7 @@ Sayak Paul
 * [Machine Learning on AWS](https://aws.amazon.com/machine-learning/)
 
 -----
-## AI, ML and DL
+## Learn ML
 
 ### Videos
 * [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU&feature=youtu.be) - This is a talk for people who know code, but who don’t necessarily know machine learning. 
