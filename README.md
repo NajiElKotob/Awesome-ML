@@ -123,6 +123,17 @@ Sayak Paul
 * [Teachable Machine](https://teachablemachine.withgoogle.com/) - Train a computer to recognize your own images, sounds, & poses.
 * [Model Asset eXchange - IBM](https://developer.ibm.com/exchanges/models/) - A place for developers to find and use free and open source deep learning models.
 
+### Artificial Neural Networks (ANN)
+aka Neural Network (NN), designed to simulate the way the human brain analyzes and processes information.
+
+### Convolutional Neural Networks (CNN)
+Used in the field of Computer Vision.
+
+### Feedforward Neural Networks (FNN)
+
+### Recurrent Neural Networks (RNN)
+Used in Natural Language Processing.
+
 
 
 -----
