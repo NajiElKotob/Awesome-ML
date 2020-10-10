@@ -98,24 +98,7 @@ Sayak Paul
 #### Temporal Difference (TD)
 
 
-### Time-Series Analysis :star:
 
-#### ARIMA
-
-#### Exponential smoothing
-
-#### GARCH
-
-### Image Processing :star:
-
-#### Artificial Neural Networks
-
-#### Keras
-* [Image classification from scratch in keras](https://towardsdatascience.com/image-detection-from-scratch-in-keras-f314872006c9) - Beginner friendly, intermediate exciting and expert refreshing.
-
-### Stochastic Processes :star:
-
-#### Monte-Carlo Simulation and other probabilistic approaches
 
 
 ## Deep Learning (DL) :star:
@@ -171,6 +154,25 @@ Used in Natural Language Processing.
 
 ### Visual Intelligence
 * [Custom Vision](https://www.customvision.ai/) - Microsoft
+
+### Time-Series Analysis :star:
+
+#### ARIMA
+
+#### Exponential smoothing
+
+#### GARCH
+
+### Image Processing :star:
+
+#### Artificial Neural Networks
+
+#### Keras
+* [Image classification from scratch in keras](https://towardsdatascience.com/image-detection-from-scratch-in-keras-f314872006c9) - Beginner friendly, intermediate exciting and expert refreshing.
+
+### Stochastic Processes :star:
+
+#### Monte-Carlo Simulation and other probabilistic approaches
 
 -----
 ## Libraries and Programming Languages
