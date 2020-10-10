@@ -133,6 +133,18 @@ Used in Natural Language Processing.
 #### Natural Language Generation
 #### Natural Language Translation
 
+
+### Computer Vision (CV)
+
+#### Object Recognition
+#### Object Classification
+#### Image Generation
+#### Motion Detection
+#### Trajectory Estimation
+#### Video Tracking
+#### Navigation
+
+
 ### Deepfake
 * [Fake Videos of Real People (TED)](https://www.ted.com/talks/supasorn_suwajanakorn_fake_videos_of_real_people_and_how_to_spot_them?language=en#t-37041) - Do you think you're good at spotting fake videos, where famous people say things they've never said in real life?
 
