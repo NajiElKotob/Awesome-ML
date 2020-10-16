@@ -21,6 +21,8 @@ Awesome Machine Learning Resources and References
   * [Data Science Software Platforms](#data-science-software-platforms)
   * [APIs](#apis)
 * [Learn ML](#learn-ml)
+  * [ebooks](#ebooks)
+  * [Videos](#videos)
 * [Special Technologies and Videos](#special-technologies-and-videos)
 
 ## Machine Learning
@@ -227,8 +229,13 @@ Used in Natural Language Processing.
 * [Google Cloud AI](https://cloud.google.com/products/ai/)
 * [Machine Learning on AWS](https://aws.amazon.com/machine-learning/)
 
+
+
 -----
 ## Learn ML
+
+### ebooks
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 ### Videos
 * [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU&feature=youtu.be) - This is a talk for people who know code, but who don’t necessarily know machine learning. 
