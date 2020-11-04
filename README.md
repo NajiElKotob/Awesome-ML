@@ -128,6 +128,7 @@ Used in Natural Language Processing.
 > Natural language processing (NLP) is a form of AI that extracts meaning from human language to make decisions based on the information.
 * [5 Amazing Examples Of Natural Language Processing (NLP) In Practice](https://www.forbes.com/sites/bernardmarr/2019/06/03/5-amazing-examples-of-natural-language-processing-nlp-in-practice/#2908458b1b30) - Bernard Marr
 * [Your Guide to Natural Language Processing (NLP)](https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1)
+* [What is Natural Language Processing (NLP)? (Video)](https://www.youtube.com/watch?v=h3qNxo_cC0M) - Bernard Marr
 
 #### Text Analysi
 #### Speech Recognition
