@@ -236,6 +236,7 @@ Used in Natural Language Processing.
 ## Learn ML
 
 ### ebooks
+* [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) - Danny Friedman
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 ### Videos
