@@ -130,7 +130,7 @@ Used in Natural Language Processing.
 * [Your Guide to Natural Language Processing (NLP)](https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1)
 * [What is Natural Language Processing (NLP)? (Video)](https://www.youtube.com/watch?v=h3qNxo_cC0M) - Bernard Marr
 
-#### Text Analysi
+#### Text Analysis
 #### Speech Recognition
 #### Natural Language Understanding
 #### Natural Language Generation
