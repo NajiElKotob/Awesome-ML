@@ -207,6 +207,11 @@ Used in Natural Language Processing.
 ### Gen
 * [New AI programming language goes beyond deep learning (MIT)](http://news.mit.edu/2019/ai-programming-gen-0626) - General-purpose language works for computer vision, robotics, statistics, and more.
 
+-----
+
+## Exams and Certifications
+* [CertNexus](http://certnexus.com/) - Emerging Technology Certifications
+
 
 -----
 
