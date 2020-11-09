@@ -17,6 +17,7 @@ Awesome Machine Learning Resources and References
 * [Deep Learning](#deep-learning-dl-star)
 * [Special Algorithms and Techniques](#special-algorithms-and-techniques-fire)
 * [Libraries and Programming Languages](#libraries-and-programming-languages)
+* [Exams and Certifications](#exams-and-certifications)
 * [Software and Tools](#software-and-tools)
   * [Data Science Software Platforms](#data-science-software-platforms)
   * [APIs](#apis)
