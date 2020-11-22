@@ -325,4 +325,6 @@ Used in Natural Language Processing.
 * [Blue Gene (IBM)](https://www.ibm.com/ibm/history/ibm100/us/en/icons/bluegene/) - IBM
 * [Mira](https://www.alcf.anl.gov/mira) - Mira Ushers in a New Era of Scientific Supercomputing
 * Quantum
+  * [Quantum Computing (Microsoft)](https://www.microsoft.com/quantum)
   * [Google claims it has finally reached quantum supremacy](https://www.newscientist.com/article/2217347-google-claims-it-has-finally-reached-quantum-supremacy/#ixzz61HzdOs4r)
+  * [Quantum Computing (IBM)](https://www.ibm.com/quantum-computing/)
