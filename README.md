@@ -25,7 +25,7 @@ Awesome Machine Learning Resources and References
   * [ebooks](#ebooks)
   * [Videos](#videos)
 * [Special Technologies and Videos](#special-technologies-and-videos)
-* [Special Performance](#pecial-performance) ⚡
+* [Special Performance](#special-performance) ⚡
 
 ## Machine Learning
 
