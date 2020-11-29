@@ -242,6 +242,9 @@ Used in Natural Language Processing.
 -----
 ## Learn ML
 
+### Roadmaps
+* [AI Expert Roadmap](https://i.am.ai/roadmap/) i.am.ai
+
 ### ebooks
 * [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) - Danny Friedman
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
