@@ -248,6 +248,7 @@ Used in Natural Language Processing.
 ### ebooks
 * [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) - Danny Friedman
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+* [What Is MLOps?](https://content.dataiku.com/mlops-report-email) - Generating Long-Term Value from Data Science & Machine Learning
 
 ### Videos
 * [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU&feature=youtu.be) - This is a talk for people who know code, but who don’t necessarily know machine learning. 
