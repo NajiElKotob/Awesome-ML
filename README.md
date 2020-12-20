@@ -249,6 +249,7 @@ Used in Natural Language Processing.
 * [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) - Danny Friedman
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [What Is MLOps?](https://content.dataiku.com/mlops-report-email) - Generating Long-Term Value from Data Science & Machine Learning
+* [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3)
 
 ### Videos
 * [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU&feature=youtu.be) - This is a talk for people who know code, but who don’t necessarily know machine learning. 
@@ -276,8 +277,6 @@ Used in Natural Language Processing.
 * [The Birthplace of AI](https://medium.com/cantors-paradise/the-birthplace-of-ai-9ab7d4e5fb00) - The 1956 Dartmouth Workshop
 * [The Seven Patterns Of AI](https://www.forbes.com/sites/cognitiveworld/2019/09/17/the-seven-patterns-of-ai/#1d0a714812d0) - Kathleen Walch
 
-### Books
-* [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3)
 
 -----
 ## Special Technologies and Videos
@@ -298,6 +297,7 @@ Used in Natural Language Processing.
 * [Towards a Conversational Agent that Can Chat About…Anything (Meena)](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) - Brain Team (Google AI)
 
 ### Special Articles
+* [AI 50: America’s Most Promising Artificial Intelligence Companies](https://www.forbes.com/sites/alanohnsman/2020/07/03/ai-50-americas-most-promising-artificial-intelligence-companies/?sh=4a2f423a5c99) - (July 2020)
 * [Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic](https://www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/#3d32d6da5f5f) - Bernard Marr (March 2020)
 * [Never mind killer robots—here are six real AI dangers to watch out for in 2019](https://www.technologyreview.com/s/612689/never-mind-killer-robotshere-are-six-real-ai-dangers-to-watch-out-for-in-2019/) - by Will Knight and Karen Hao (January 2019)
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/) - "No one really knows how the most advanced algorithms do what they do. That could be a problem" - Will Knight (April 2017)
