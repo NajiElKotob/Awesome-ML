@@ -247,6 +247,7 @@ Used in Natural Language Processing.
 * [AI Expert Roadmap](https://i.am.ai/roadmap/) i.am.ai
 
 ### ebooks
+* [100+ Free Data Science Books for 2021](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html) - theinsaneapp.com
 * [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) - Danny Friedman
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [What Is MLOps?](https://content.dataiku.com/mlops-report-email) - Generating Long-Term Value from Data Science & Machine Learning
