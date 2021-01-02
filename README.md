@@ -187,6 +187,7 @@ Used in Natural Language Processing.
 
 #### Keras
 * [Image classification from scratch in keras](https://towardsdatascience.com/image-detection-from-scratch-in-keras-f314872006c9) - Beginner friendly, intermediate exciting and expert refreshing.
+* [How to Perform Face Detection with Deep Learning](https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/)
 
 ### Stochastic Processes :star:
 
