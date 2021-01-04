@@ -70,6 +70,9 @@ Sayak Paul
 ##### Neural Networks
 * [Neural Network Architectures](https://www.youtube.com/watch?v=oJNHXPs0XDk) - Steve Brunton
 
+* 3Blue1Brown
+  * [But what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk) - Deep learning, chapter 1
+
 ### Unsupervised :star:
 > Unsupervised learning is a method used to enable machines to classify both tangible and intangible objects without providing the machines any prior information about the objects. (techopedia.com)
 
