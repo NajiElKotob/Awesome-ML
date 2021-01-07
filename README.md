@@ -267,6 +267,7 @@ Used in Natural Language Processing.
 * [130 Machine Learning Projects Solved and Explained](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
 
 ### Articles
+* [StyleGAN: Use machine learning to generate and customize realistic images](https://heartbeat.fritz.ai/stylegans-use-machine-learning-to-generate-and-customize-realistic-images-c943388dc672) - Jamshed Khan (July 2019)
 * [Monitoring Machine Learning Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models) - (March 2020)
 * [Artificial Intelligence (AI) vs. Machine Learning vs. Deep Learning](https://pathmind.com/wiki/ai-vs-machine-learning-vs-deep-learning) - Chris Nicholson
 * [Top Algorithms and Methods Used by Data Scientists](https://www.kdnuggets.com/2016/09/poll-algorithms-used-data-scientists.html) - KDnuggets
