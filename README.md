@@ -267,6 +267,7 @@ Used in Natural Language Processing.
 * [130 Machine Learning Projects Solved and Explained](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
 
 ### Articles
+* [Big O notation](https://web.mit.edu/16.070/www/lecture/big_o.pdf) - MIT
 * [StyleGAN: Use machine learning to generate and customize realistic images](https://heartbeat.fritz.ai/stylegans-use-machine-learning-to-generate-and-customize-realistic-images-c943388dc672) - Jamshed Khan (July 2019)
 * [Monitoring Machine Learning Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models) - (March 2020)
 * [Artificial Intelligence (AI) vs. Machine Learning vs. Deep Learning](https://pathmind.com/wiki/ai-vs-machine-learning-vs-deep-learning) - Chris Nicholson
@@ -289,14 +290,14 @@ Used in Natural Language Processing.
 -----
 ## Special Technologies and Videos
 
-### Special Websites
+### Websites
 * [Welcome AI](https://welcome.ai/) - AI Products, Case Studies, Technologies and more
 
-### Special tools
+### Tools
 * [backronym](https://www.infornopolitan.xyz/backronym) - Wow
   * [How to generate ideas in Machine Learning?](https://medium.com/datadriveninvestor/how-to-generate-ideas-in-machine-learning-bdb9a7267392) 
 
-### Special Technologies
+### Technologies
 * [BlueDot](https://bluedot.global/) - BlueDot’s outbreak risk software safeguards lives by mitigating exposure to infectious diseases that threaten human health, security, and prosperity (bluedot.global)
 * [Talk to Transformer](https://talktotransformer.com/) - See how a modern neural network completes your text (talktotransformer.com)
 * [Salma](http://www.salma.ai/) - The world's first Arabic personal voice assistant.
@@ -304,14 +305,14 @@ Used in Natural Language Processing.
 * [PREDPOL](https://www.predpol.com/) - Predict critical events and gain actionable insight
 * [Towards a Conversational Agent that Can Chat About…Anything (Meena)](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) - Brain Team (Google AI)
 
-### Special Articles
+### Articles
 * [AI 50: America’s Most Promising Artificial Intelligence Companies](https://www.forbes.com/sites/alanohnsman/2020/07/03/ai-50-americas-most-promising-artificial-intelligence-companies/?sh=4a2f423a5c99) - (July 2020)
 * [Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic](https://www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/#3d32d6da5f5f) - Bernard Marr (March 2020)
 * [Biased Algorithms Learn From Biased Data](https://www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/?sh=7719a29976fc) - Annie Brown (February 2020)
 * [Never mind killer robots—here are six real AI dangers to watch out for in 2019](https://www.technologyreview.com/s/612689/never-mind-killer-robotshere-are-six-real-ai-dangers-to-watch-out-for-in-2019/) - by Will Knight and Karen Hao (January 2019)
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/) - "No one really knows how the most advanced algorithms do what they do. That could be a problem" - Will Knight (April 2017)
 
-### Special Videos
+### Videos
 * [Introducing Quantum Impact](https://www.youtube.com/watch?v=ba88EwG5b0Q) - Microsoft (February 2020)
 * [Samsung's NEON Revealed - Leaked Trailer Looks Perfectly Human!](https://www.youtube.com/watch?v=Q6f6EXX-79w&feature=emb_logo) - Good Content | Tech (January 2020)
 * [The City of the Future](https://www.youtube.com/watch?v=L054Xd97_rk) - Elon Musk (December 2019)
