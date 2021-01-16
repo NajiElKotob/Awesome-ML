@@ -219,7 +219,6 @@ Used in Natural Language Processing.
 ## Exams and Certifications
 * [CertNexus](http://certnexus.com/) - Emerging Technology Certifications
 
-
 -----
 
 ## Software and Tools
@@ -286,6 +285,8 @@ Used in Natural Language Processing.
 * [The Birthplace of AI](https://medium.com/cantors-paradise/the-birthplace-of-ai-9ab7d4e5fb00) - The 1956 Dartmouth Workshop
 * [The Seven Patterns Of AI](https://www.forbes.com/sites/cognitiveworld/2019/09/17/the-seven-patterns-of-ai/#1d0a714812d0) - Kathleen Walch
 
+## Gartner Hype Cycle
+* [2 Megatrends Dominate the Gartner Hype Cycle for Artificial Intelligence, 2020](https://www.gartner.com/smarterwithgartner/2-megatrends-dominate-the-gartner-hype-cycle-for-artificial-intelligence-2020/) - gartner.com
 
 -----
 ## Special Technologies and Videos
