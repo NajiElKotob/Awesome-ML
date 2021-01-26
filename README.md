@@ -250,6 +250,7 @@ Used in Natural Language Processing.
 * [AI Expert Roadmap](https://i.am.ai/roadmap/) i.am.ai
 
 ### ebooks
+* [Approaching (almost) any machine learning problem](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur
 * [100+ Free Data Science Books for 2021](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html) - theinsaneapp.com
 * [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) - Danny Friedman
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
