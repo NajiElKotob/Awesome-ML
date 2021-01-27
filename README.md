@@ -24,7 +24,9 @@ Awesome Machine Learning Resources and References
 * [Learn ML](#learn-ml)
   * [ebooks](#ebooks)
   * [Videos](#videos)
+  * [Podcast](#podcast)
   * [Tutorials](#tutorials)
+  * [Articles](#articles)
 * [Special Technologies and Videos](#special-technologies-and-videos)
 * [Special Performance](#special-performance) ⚡
 
