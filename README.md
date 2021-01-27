@@ -263,10 +263,13 @@ Used in Natural Language Processing.
 * [Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Machine Learning Recipes with Josh Gordon
 * [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) - StatQuest with Josh Starmer 
 
+### Podcast
+* [Gradient Dissent - A Machine Learning Podcast by W&B](https://www.listennotes.com/podcasts/gradient-dissent-a-machine-learning-podcast-92EROTMb3Ip/)
+
 ### Tutorials
 * [130 Machine Learning Projects Solved and Explained](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
 
-### Articles]()
+### Articles
 * [The Ultimate Guide to Learning About Artificial Intelligence](https://medium.com/@mr.adam.maj/the-ultimate-guide-to-becoming-an-artificial-intelligence-expert-db5124dc8ae0) -Adam Maj (April 2020)
 * [Big O notation](https://web.mit.edu/16.070/www/lecture/big_o.pdf) - MIT
 * [StyleGAN: Use machine learning to generate and customize realistic images](https://heartbeat.fritz.ai/stylegans-use-machine-learning-to-generate-and-customize-realistic-images-c943388dc672) - Jamshed Khan (July 2019)
