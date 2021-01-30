@@ -198,6 +198,11 @@ Used in Natural Language Processing.
 ### Stochastic Processes :star:
 
 #### Monte-Carlo Simulation and other probabilistic approaches
+* []()
+
+
+### Other Algorithms 
+* The [Quicksort Algorithm](https://deepai.org/machine-learning-glossary-and-terms/quicksort-algorithm) is a systematic routine for sorting elements of an array. It is efficient when compared to other common sorting algorithms, and it is considered unstable because the relative order of equal elements is not guaranteed.
 
 -----
 ## Libraries and Programming Languages
