@@ -278,6 +278,7 @@ Used in Natural Language Processing.
 * [130 Machine Learning Projects Solved and Explained](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
 
 ### Articles
+* [Pattern Recognition: The basis of Human and Machine Learning](https://www.analyticsvidhya.com/blog/2020/12/patterns-recognition-the-basis-of-human-and-machine-learning/) - analyticsvidhya.com
 * [The Ultimate Guide to Learning About Artificial Intelligence](https://medium.com/@mr.adam.maj/the-ultimate-guide-to-becoming-an-artificial-intelligence-expert-db5124dc8ae0) -Adam Maj (April 2020)
 * [Big O notation](https://web.mit.edu/16.070/www/lecture/big_o.pdf) - MIT
 * [StyleGAN: Use machine learning to generate and customize realistic images](https://heartbeat.fritz.ai/stylegans-use-machine-learning-to-generate-and-customize-realistic-images-c943388dc672) - Jamshed Khan (July 2019)
