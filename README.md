@@ -198,7 +198,7 @@ Used in Natural Language Processing.
 ### Stochastic Processes :star:
 
 #### Monte-Carlo Simulation and other probabilistic approaches
-* []()
+* [Monte Carlo Simulation (Video)](https://www.youtube.com/watch?v=OgO1gpXSUzU) - MIT OpenCourseWare
 
 
 ### Other Algorithms 
