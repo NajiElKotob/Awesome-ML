@@ -77,7 +77,11 @@ Sayak Paul
 ##### Decision Trees
 * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - Ineractive story-scrolling
 
-##### SVM (Support Vector Machines)
+##### Support Vector Machines (SVM)
+
+##### Hierarchical Agglomerative Clustering (HAC)
+* [Understanding the concept of Hierarchical clustering Technique](https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec) - Chaitanya Reddy Patlolla (December 2018)
+
 
 ##### Neural Networks
 * [Neural Network Architectures](https://www.youtube.com/watch?v=oJNHXPs0XDk) - Steve Brunton
