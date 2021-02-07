@@ -278,6 +278,8 @@ Used in Natural Language Processing.
 * [130 Machine Learning Projects Solved and Explained](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
 
 ### Articles
+* [Best Practices for Feature Engineering](https://elitedatascience.com/feature-engineering-best-practices)
+  * Coming up with features is difficult, time-consuming, requires expert knowledge. “Applied machine learning” is basically feature engineering. ~ Andrew Ng
 * [Pattern Recognition: The basis of Human and Machine Learning](https://www.analyticsvidhya.com/blog/2020/12/patterns-recognition-the-basis-of-human-and-machine-learning/) - analyticsvidhya.com
 * [The Ultimate Guide to Learning About Artificial Intelligence](https://medium.com/@mr.adam.maj/the-ultimate-guide-to-becoming-an-artificial-intelligence-expert-db5124dc8ae0) -Adam Maj (April 2020)
 * [Big O notation](https://web.mit.edu/16.070/www/lecture/big_o.pdf) - MIT
