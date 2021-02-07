@@ -78,6 +78,7 @@ Sayak Paul
 * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - Ineractive story-scrolling
 
 ##### Support Vector Machines (SVM)
+* [SVM Classifier and RBF Kernel — How to Make Better Models in Python](https://towardsdatascience.com/svm-classifier-and-rbf-kernel-how-to-make-better-models-in-python-73bb4914af5b) - Saul Dobilas (January 2017)
 
 ##### Hierarchical Agglomerative Clustering (HAC)
 * [Understanding the concept of Hierarchical clustering Technique](https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec) - Chaitanya Reddy Patlolla (December 2018)
