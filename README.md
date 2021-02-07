@@ -52,6 +52,10 @@ Sayak Paul
 
 ##### Stepwise Regression
 
+##### Support Vector Regression (SVR)
+* [An Introduction to Support Vector Regression (SVR)](https://towardsdatascience.com/an-introduction-to-support-vector-regression-svr-a3ebc1672c2) - Tom Sharp (March 2020)
+
+
 ##### Multiple Linear Regression
 * [Introduction to Feature Selection and Backward Elimination](https://medium.com/@mayankshah_85820/machine-learning-feature-selection-with-backward-elimination-955894654026) - Mayank Shah
 
