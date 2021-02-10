@@ -293,6 +293,9 @@ Used in Natural Language Processing.
 ### Tutorials
 * [130 Machine Learning Projects Solved and Explained](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
 
+### Roadmap
+* [Data Science Curriculum for self-study](https://www.kdnuggets.com/2020/02/data-science-curriculum-self-study.html) - Benjamin Obi Tayo
+
 ### Articles
 * [Best Practices for Feature Engineering](https://elitedatascience.com/feature-engineering-best-practices)
   * Coming up with features is difficult, time-consuming, requires expert knowledge. “Applied machine learning” is basically feature engineering. ~ Andrew Ng
