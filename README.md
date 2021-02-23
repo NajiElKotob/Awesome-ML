@@ -281,6 +281,9 @@ Used in Natural Language Processing.
 * [What Is MLOps?](https://content.dataiku.com/mlops-report-email) - Generating Long-Term Value from Data Science & Machine Learning
 * [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3)
 
+### Glossary
+* [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
+
 ### Videos
 * [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU&feature=youtu.be) - This is a talk for people who know code, but who don’t necessarily know machine learning. 
 * [Data Mining with Weka](https://www.youtube.com/user/WekaMOOC) - Weka MOOC
