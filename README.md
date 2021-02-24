@@ -327,6 +327,11 @@ Used in Natural Language Processing.
 * [2 Megatrends Dominate the Gartner Hype Cycle for Artificial Intelligence, 2020](https://www.gartner.com/smarterwithgartner/2-megatrends-dominate-the-gartner-hype-cycle-for-artificial-intelligence-2020/) - gartner.com
 
 -----
+
+## ML for Good
+* [Deep learning algorithm does as well as dermatologists in identifying skin cancer](https://news.stanford.edu/2017/01/25/artificial-intelligence-used-identify-skin-cancer/) - Stanford (January 2017)
+ 
+-----
 ## Special Technologies and Videos
 
 ### Websites
