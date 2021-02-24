@@ -27,6 +27,7 @@ Awesome Machine Learning Resources and References
   * [Podcast](#podcast)
   * [Tutorials](#tutorials)
   * [Articles](#articles)
+* [ML for Good](#ml-for-good)
 * [Special Technologies and Videos](#special-technologies-and-videos)
 * [Special Performance](#special-performance) ⚡
 
