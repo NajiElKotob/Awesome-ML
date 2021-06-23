@@ -307,6 +307,7 @@ Used in Natural Language Processing.
 * [Data Science Curriculum for self-study](https://www.kdnuggets.com/2020/02/data-science-curriculum-self-study.html) - Benjamin Obi Tayo
 
 ### Articles
+* [Towards the end of deep learning and the beginning of AGI](https://towardsdatascience.com/towards-the-end-of-deep-learning-and-the-beginning-of-agi-d214d222c4cb) - Javier Ideami (March 2021)
 * [Machine Learning Algorithms and the Data Pros Who Use Them](http://businessoverbroadway.com/2021/02/14/machine-learning-algorithms-and-the-data-pros-who-use-them/) - Bob Hayes (February 2021)
 * [Best Practices for Feature Engineering](https://elitedatascience.com/feature-engineering-best-practices)
   * Coming up with features is difficult, time-consuming, requires expert knowledge. “Applied machine learning” is basically feature engineering. ~ Andrew Ng
