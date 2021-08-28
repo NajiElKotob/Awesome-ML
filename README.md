@@ -277,6 +277,9 @@ Used in Natural Language Processing.
 -----
 ## Learn ML
 
+### Courses
+* [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners) - Microsoft
+
 ### Roadmaps
 * [AI Expert Roadmap](https://i.am.ai/roadmap/) i.am.ai
 
