@@ -310,6 +310,7 @@ Used in Natural Language Processing.
 * [Data Science Curriculum for self-study](https://www.kdnuggets.com/2020/02/data-science-curriculum-self-study.html) - Benjamin Obi Tayo
 
 ### Articles
+* [Edge AI, is This the End of Cloud?](https://governadav.medium.com/edge-ai-is-this-the-end-of-cloud-9e5a16cf5fbf) - Nadav Gover (15 April 2021)
 * [4 Intersecting Domains That You Can Easily Confuse with Artificial Intelligence](https://towardsdatascience.com/4-intersecting-domains-that-you-can-easily-confuse-with-artificial-intelligence-2233cb6ad7d1) - Orhan G. Yalçın (19 December 2020)
 * [The Roadmap of Mathematics for Deep Learning](https://towardsdatascience.com/the-roadmap-of-mathematics-for-deep-learning-357b3db8569b) - towardsdatascience.com
 * [Towards the end of deep learning and the beginning of AGI](https://towardsdatascience.com/towards-the-end-of-deep-learning-and-the-beginning-of-agi-d214d222c4cb) - Javier Ideami (March 2021)
