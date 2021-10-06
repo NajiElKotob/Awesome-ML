@@ -304,6 +304,7 @@ Used in Natural Language Processing.
 * [Gradient Dissent - A Machine Learning Podcast by W&B](https://www.listennotes.com/podcasts/gradient-dissent-a-machine-learning-podcast-92EROTMb3Ip/)
 
 ### Tutorials
+* [Introduction To Machine Learning With Python Course (FREE)](https://www.marktechpost.com/introduction-to-machine-learning-with-python-course-free/) - marktechpost.com
 * [130 Machine Learning Projects Solved and Explained](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
 
 ### Roadmap
