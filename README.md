@@ -365,6 +365,7 @@ Used in Natural Language Processing.
 * [Towards a Conversational Agent that Can Chat About…Anything (Meena)](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) - Brain Team (Google AI)
 
 ### Articles
+* [Why you should be using active learning to build ML](https://www.marktechpost.com/introduction-to-machine-learning-with-python-course-free/) - marktechpost.com
 * [AI 50: America’s Most Promising Artificial Intelligence Companies](https://www.forbes.com/sites/alanohnsman/2020/07/03/ai-50-americas-most-promising-artificial-intelligence-companies/?sh=4a2f423a5c99) - (July 2020)
 * [Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic](https://www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/#3d32d6da5f5f) - Bernard Marr (March 2020)
 * [Biased Algorithms Learn From Biased Data](https://www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/?sh=7719a29976fc) - Annie Brown (February 2020)
