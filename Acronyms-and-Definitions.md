@@ -11,4 +11,5 @@
 
 ## References
 * [Machine Learning Crash Course (Google)](https://developers.google.com/machine-learning/)
+    * [ML Glossary (Google)](https://developers.google.com/machine-learning/glossary)
 * [Machine Learning for Beginners - A Curriculum (Microsoft)](https://github.com/microsoft/ML-For-Beginners)
