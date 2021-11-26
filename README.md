@@ -273,12 +273,12 @@ Used in Natural Language Processing.
 * [Machine Learning on AWS](https://aws.amazon.com/machine-learning/)
 
 
-
 -----
 ## Learn ML
 
 ### Courses
 * [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners) - Microsoft
+* [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
 
 ### Roadmaps
 * [AI Expert Roadmap](https://i.am.ai/roadmap/) i.am.ai
@@ -306,7 +306,6 @@ Used in Natural Language Processing.
 ### Tutorials
 * [Introduction To Machine Learning With Python Course (FREE)](https://www.marktechpost.com/introduction-to-machine-learning-with-python-course-free/) - marktechpost.com
 * [130 Machine Learning Projects Solved and Explained](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
-* [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
 
 
 ### Roadmap
