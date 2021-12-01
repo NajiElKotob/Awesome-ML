@@ -375,6 +375,7 @@ Used in Natural Language Processing.
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/) - "No one really knows how the most advanced algorithms do what they do. That could be a problem" - Will Knight (April 2017)
 
 ### Videos
+* [Artificial Intelligence Today with Prof. Stuart Russell](https://www.youtube.com/watch?v=rPRJNa3vCQA) - Bernard Marr
 * [Project Omote (Real-Time Face Tracking & Projection Mapping)](http://www.project-omote.com/) - Project Omote is a collaboration between Japanese director Nobumichi Asai, makeup artist Hiroto Kuwahara and French digital image engineer Paul Lacroix.
 * [Introducing Quantum Impact](https://www.youtube.com/watch?v=ba88EwG5b0Q) - Microsoft (February 2020)
 * [Samsung's NEON Revealed - Leaked Trailer Looks Perfectly Human!](https://www.youtube.com/watch?v=Q6f6EXX-79w&feature=emb_logo) - Good Content | Tech (January 2020)
