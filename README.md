@@ -373,6 +373,8 @@ Used in Natural Language Processing.
 * [Biased Algorithms Learn From Biased Data](https://www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/?sh=7719a29976fc) - Annie Brown (February 2020)
 * [Never mind killer robots—here are six real AI dangers to watch out for in 2019](https://www.technologyreview.com/s/612689/never-mind-killer-robotshere-are-six-real-ai-dangers-to-watch-out-for-in-2019/) - by Will Knight and Karen Hao (January 2019)
 * [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/) - "No one really knows how the most advanced algorithms do what they do. That could be a problem" - Will Knight (April 2017)
+* [A Guide to Real World Artificial Intelligence & Machine Learning Use Cases](https://www.bbntimes.com/technology/a-guide-to-real-world-artificial-intelligence-machine-learning-use-cases?ref=najielkotob)
+
 
 ### Videos
 * [Artificial Intelligence Today with Prof. Stuart Russell](https://www.youtube.com/watch?v=rPRJNa3vCQA) - Bernard Marr
