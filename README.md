@@ -70,6 +70,8 @@ Sayak Paul
 ##### Multiple Linear Regression
 * [Introduction to Feature Selection and Backward Elimination](https://medium.com/@mayankshah_85820/machine-learning-feature-selection-with-backward-elimination-955894654026) - Mayank Shah
 
+##### Model Evaluation (Regression Metrics)
+* R2, MAE, MSE, RMSE
 
 #### Classification
 ```Predict discrete values```
@@ -96,6 +98,9 @@ Sayak Paul
 
 * 3Blue1Brown
   * [But what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk) - Deep learning, chapter 1
+
+##### Model Evaluation (Classification Metrics)
+* Accuracy, AUC
 
 ### Unsupervised :star:
 > Unsupervised learning is a method used to enable machines to classify both tangible and intangible objects without providing the machines any prior information about the objects. (techopedia.com)
