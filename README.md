@@ -297,6 +297,8 @@ Used in Natural Language Processing.
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [What Is MLOps?](https://content.dataiku.com/mlops-report-email) - Generating Long-Term Value from Data Science & Machine Learning
 * [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3)
+* [Data Science at the Command Line (Free)](https://datascienceatthecommandline.com/) - datascienceatthecommandline.com
+
 
 ### Glossary
 * [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
