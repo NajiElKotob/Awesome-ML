@@ -174,8 +174,9 @@ Used in Natural Language Processing.
 
 
 ### Computer Vision (CV)
-
-#### Object Recognition
+#### Image Classification
+##### Object Recognition
+##### Semantic Segmentation
 #### Object Classification
 #### Image Generation
 #### Motion Detection
