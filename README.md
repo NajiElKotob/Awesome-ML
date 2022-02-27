@@ -321,7 +321,8 @@ Used in Natural Language Processing.
 ### Roadmap
 * [Data Science Curriculum for self-study](https://www.kdnuggets.com/2020/02/data-science-curriculum-self-study.html) - Benjamin Obi Tayo
 
-### Articles
+### Articles (Google)]()
+* [Objectives for AI applications (Google)](https://ai.google/principles/) - ai.google
 * [Which machine learning algorithm should I use? (SAS)](https://blogs.sas.com/content/subconsciousmusings/2020/12/09/machine-learning-algorithm-use/) - sas.com
 * [What Is Artificial Intelligence?](https://www.gartner.com/en/topics/artificial-intelligence?utm_campaign=RM_NA_2022_SWG_NL_01_IT) - gartner.com
 * [Edge AI, is This the End of Cloud?](https://governadav.medium.com/edge-ai-is-this-the-end-of-cloud-9e5a16cf5fbf) - Nadav Gover (15 April 2021)
