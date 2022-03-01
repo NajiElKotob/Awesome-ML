@@ -192,7 +192,7 @@ Used in Natural Language Processing.
 * [Fake Anything: "The Art of Deep Learning" - Deep-Fake, GANs, Digital Art and a Live Hands-On Session](https://www.youtube.com/watch?v=8Mf8xKzrpEY) - (June 2020)
 * [Understanding Generative Adversarial Networks (GANs)](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29) - Building, step by step, the reasoning that leads to GANs (January 2019)
 * [Nvidia AI Makes Artists Out of Everyone](https://interestingengineering.com/nvidia-ai-makes-artists-out-of-everyone) - (March 2019)
-  * [Nvidia GauGAN tool](http://nvidia-research-mingyuliu.com/gaugan/)
+  * [Nvidia GauGAN tool](http://gaugan.org/gaugan2/) - gaugan.org
 * Deep Dream
 * Style Transfer
 
