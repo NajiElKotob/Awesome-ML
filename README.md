@@ -290,6 +290,7 @@ Used in Natural Language Processing.
 ### Courses
 * [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners) - Microsoft
 * [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
+* [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/online/) - nvidia.com
 
 ### Roadmaps
 * [AI Expert Roadmap](https://i.am.ai/roadmap/) i.am.ai
