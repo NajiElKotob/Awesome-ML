@@ -325,7 +325,8 @@ Used in Natural Language Processing.
 ### Roadmap
 * [Data Science Curriculum for self-study](https://www.kdnuggets.com/2020/02/data-science-curriculum-self-study.html) - Benjamin Obi Tayo
 
-### Articles (Google)]()
+### Articles
+* [Feedback loops in machine learning](https://www.impira.com/blog/feedback-loop) - impira.com
 * [Objectives for AI applications (Google)](https://ai.google/principles/) - ai.google
 * [Which machine learning algorithm should I use? (SAS)](https://blogs.sas.com/content/subconsciousmusings/2020/12/09/machine-learning-algorithm-use/) - sas.com
 * [What Is Artificial Intelligence?](https://www.gartner.com/en/topics/artificial-intelligence?utm_campaign=RM_NA_2022_SWG_NL_01_IT) - gartner.com
