@@ -58,6 +58,10 @@ Sayak Paul
 * [How well does your regression equation truly represent your set of data](https://mathbits.com/MathBits/TISection/Statistics2/correlation.htm) - Correlation Coefficient, r and Coefficient of Determination, r 2  or R2
 * [Graphing On The Coordinate Plane (Algebra Basics) :tv:](https://www.youtube.com/watch?v=9Uc62CuQjc4) - Math Antics 
 
+##### Log-Log Linear Regression
+##### Polynomial Regression
+##### Segmented regression
+
 ##### Stepwise Regression
 
 ##### Support Vector Regression (SVR)
