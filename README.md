@@ -326,6 +326,7 @@ Used in Natural Language Processing.
 * [130 Machine Learning Projects Solved and Explained](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
 * [Introduction to AI with David Carmona](https://www.microsoft.com/en-us/AI/introduction-to-AI-with-david-carmona?OCID=AI101_Intro_FY22Q2_omc_Tech_yt&rtc=1&ref=najielkotob) - microsoft.com
 * [Dev Intro to Data Science](https://docs.microsoft.com/en-us/shows/dev-intro-to-data-science/?source=docs) - microsoft.com
+* [Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners)
 
 ### Roadmap
 * [Data Science Curriculum for self-study](https://www.kdnuggets.com/2020/02/data-science-curriculum-self-study.html) - Benjamin Obi Tayo
