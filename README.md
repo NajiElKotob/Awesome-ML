@@ -366,6 +366,7 @@ Used in Natural Language Processing.
 * [The Seven Patterns Of AI](https://www.forbes.com/sites/cognitiveworld/2019/09/17/the-seven-patterns-of-ai/#1d0a714812d0) - Kathleen Walch
 
 ## Gartner Hype Cycle
+* [The 4 Trends That Prevail on the Gartner Hype Cycle for AI, 2021](https://www.gartner.com/en/articles/the-4-trends-that-prevail-on-the-gartner-hype-cycle-for-ai-2021)
 * [2 Megatrends Dominate the Gartner Hype Cycle for Artificial Intelligence, 2020](https://www.gartner.com/smarterwithgartner/2-megatrends-dominate-the-gartner-hype-cycle-for-artificial-intelligence-2020/) - gartner.com
 
 -----
