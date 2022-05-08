@@ -387,6 +387,7 @@ Used in Natural Language Processing.
 * [BlueDot](https://bluedot.global/) - BlueDot’s outbreak risk software safeguards lives by mitigating exposure to infectious diseases that threaten human health, security, and prosperity (bluedot.global)
 * [Talk to Transformer](https://talktotransformer.com/) - See how a modern neural network completes your text (talktotransformer.com)
 * [Salma](http://www.salma.ai/) - The world's first Arabic personal voice assistant.
+* [This X does NOT exist](https://thisxdoesnotexist.com/) - Using generative adversarial networks (GAN), we can learn how to create realistic-looking fake versions of almost anything.
 * [This person does NOT exist](https://thispersondoesnotexist.com) - Every single photo on the site has been created by using a special kind of artificial intelligence algorithm called generative adversarial networks (GANs).
 * [PREDPOL](https://www.predpol.com/) - Predict critical events and gain actionable insight
 * [Towards a Conversational Agent that Can Chat About…Anything (Meena)](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) - Brain Team (Google AI)
