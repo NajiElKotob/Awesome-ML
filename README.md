@@ -308,11 +308,16 @@ Used in Natural Language Processing.
 * [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3)
 * [Data Science at the Command Line (Free)](https://datascienceatthecommandline.com/) - datascienceatthecommandline.com
 
+### Tutorials
+* [Introduction To Machine Learning With Python Course (FREE)](https://www.marktechpost.com/introduction-to-machine-learning-with-python-course-free/) - marktechpost.com
+* [130 Machine Learning Projects Solved and Explained](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
+* [Introduction to AI with David Carmona](https://www.microsoft.com/en-us/AI/introduction-to-AI-with-david-carmona?OCID=AI101_Intro_FY22Q2_omc_Tech_yt&rtc=1&ref=najielkotob) - microsoft.com
+* [Dev Intro to Data Science](https://docs.microsoft.com/en-us/shows/dev-intro-to-data-science/?source=docs) - microsoft.com
+* [Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners)
 
-### Glossary
-* [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
 
 ### Videos
+* [AlphaGo :tv:](https://www.youtube.com/watch?v=WXuK6gekU1Y) - Full award-winning documentary
 * [Machine Learning — Andrew Ng, Stanford University (Full Course, 112 videos)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) 🌟
 * [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU&feature=youtu.be) - This is a talk for people who know code, but who don’t necessarily know machine learning. 
 * [Data Mining with Weka](https://www.youtube.com/user/WekaMOOC) - Weka MOOC
@@ -322,12 +327,9 @@ Used in Natural Language Processing.
 ### Podcast
 * [Gradient Dissent - A Machine Learning Podcast by W&B](https://www.listennotes.com/podcasts/gradient-dissent-a-machine-learning-podcast-92EROTMb3Ip/)
 
-### Tutorials
-* [Introduction To Machine Learning With Python Course (FREE)](https://www.marktechpost.com/introduction-to-machine-learning-with-python-course-free/) - marktechpost.com
-* [130 Machine Learning Projects Solved and Explained](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
-* [Introduction to AI with David Carmona](https://www.microsoft.com/en-us/AI/introduction-to-AI-with-david-carmona?OCID=AI101_Intro_FY22Q2_omc_Tech_yt&rtc=1&ref=najielkotob) - microsoft.com
-* [Dev Intro to Data Science](https://docs.microsoft.com/en-us/shows/dev-intro-to-data-science/?source=docs) - microsoft.com
-* [Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners)
+### Glossary
+* [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
+
 
 ### Roadmap
 * [Data Science Curriculum for self-study](https://www.kdnuggets.com/2020/02/data-science-curriculum-self-study.html) - Benjamin Obi Tayo
