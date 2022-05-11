@@ -294,10 +294,14 @@ Used in Natural Language Processing.
 ### Courses
 * [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners) - Microsoft
 * [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
-* [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/online/) - nvidia.com
+* [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/online/) :star: - nvidia.com
 
-### Roadmaps
-* [AI Expert Roadmap](https://i.am.ai/roadmap/) i.am.ai
+### Tutorials
+* [Introduction To Machine Learning With Python Course (FREE)](https://www.marktechpost.com/introduction-to-machine-learning-with-python-course-free/) - marktechpost.com
+* [130 Machine Learning Projects Solved and Explained](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
+* [Introduction to AI with David Carmona](https://www.microsoft.com/en-us/AI/introduction-to-AI-with-david-carmona?OCID=AI101_Intro_FY22Q2_omc_Tech_yt&rtc=1&ref=najielkotob) - microsoft.com
+* [Dev Intro to Data Science](https://docs.microsoft.com/en-us/shows/dev-intro-to-data-science/?source=docs) - microsoft.com
+* [Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners)
 
 ### ebooks
 * [Approaching (almost) any machine learning problem](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur
@@ -307,14 +311,6 @@ Used in Natural Language Processing.
 * [What Is MLOps?](https://content.dataiku.com/mlops-report-email) - Generating Long-Term Value from Data Science & Machine Learning
 * [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3)
 * [Data Science at the Command Line (Free)](https://datascienceatthecommandline.com/) - datascienceatthecommandline.com
-
-### Tutorials
-* [Introduction To Machine Learning With Python Course (FREE)](https://www.marktechpost.com/introduction-to-machine-learning-with-python-course-free/) - marktechpost.com
-* [130 Machine Learning Projects Solved and Explained](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
-* [Introduction to AI with David Carmona](https://www.microsoft.com/en-us/AI/introduction-to-AI-with-david-carmona?OCID=AI101_Intro_FY22Q2_omc_Tech_yt&rtc=1&ref=najielkotob) - microsoft.com
-* [Dev Intro to Data Science](https://docs.microsoft.com/en-us/shows/dev-intro-to-data-science/?source=docs) - microsoft.com
-* [Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners)
-
 
 ### Videos
 * [AlphaGo :tv:](https://www.youtube.com/watch?v=WXuK6gekU1Y) - Full award-winning documentary
@@ -330,9 +326,9 @@ Used in Natural Language Processing.
 ### Glossary
 * [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
 
-
 ### Roadmap
 * [Data Science Curriculum for self-study](https://www.kdnuggets.com/2020/02/data-science-curriculum-self-study.html) - Benjamin Obi Tayo
+* [AI Expert Roadmap](https://i.am.ai/roadmap/) i.am.ai
 
 ### Articles
 * [Feedback loops in machine learning](https://www.impira.com/blog/feedback-loop) - impira.com
