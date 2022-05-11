@@ -331,6 +331,7 @@ Used in Natural Language Processing.
 * [AI Expert Roadmap](https://i.am.ai/roadmap/) i.am.ai
 
 ### Articles
+* [Simplifying the Difference: ML vs DL](https://www.scs.org.sg/articles/machine-learning-vs-deep-learning) - scs.org.sg | Singapore Computer Society
 * [Feedback loops in machine learning](https://www.impira.com/blog/feedback-loop) - impira.com
 * [Objectives for AI applications (Google)](https://ai.google/principles/) - ai.google
 * [Which machine learning algorithm should I use? (SAS)](https://blogs.sas.com/content/subconsciousmusings/2020/12/09/machine-learning-algorithm-use/) - sas.com
