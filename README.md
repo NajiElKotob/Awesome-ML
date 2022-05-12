@@ -22,10 +22,11 @@ Awesome Machine Learning Resources and References
   * [Data Science Software Platforms](#data-science-software-platforms)
   * [APIs](#apis)
 * [Learn ML](#learn-ml)
+  * [Courses](#courses) :star:
+  * [Tutorials](#tutorials)
   * [ebooks](#ebooks)
   * [Videos](#videos)
   * [Podcast](#podcast)
-  * [Tutorials](#tutorials)
   * [Articles](#articles)
 * [ML for Good](#ml-for-good)
 * [Special Technologies and Videos](#special-technologies-and-videos)
@@ -320,16 +321,6 @@ Used in Natural Language Processing.
 * [Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Machine Learning Recipes with Josh Gordon
 * [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) - StatQuest with Josh Starmer 
 
-### Podcast
-* [Gradient Dissent - A Machine Learning Podcast by W&B](https://www.listennotes.com/podcasts/gradient-dissent-a-machine-learning-podcast-92EROTMb3Ip/)
-
-### Glossary
-* [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
-
-### Roadmap
-* [Data Science Curriculum for self-study](https://www.kdnuggets.com/2020/02/data-science-curriculum-self-study.html) - Benjamin Obi Tayo
-* [AI Expert Roadmap](https://i.am.ai/roadmap/) i.am.ai
-
 ### Articles
 * [Simplifying the Difference: ML vs DL](https://www.scs.org.sg/articles/machine-learning-vs-deep-learning) - scs.org.sg | Singapore Computer Society
 * [Feedback loops in machine learning](https://www.impira.com/blog/feedback-loop) - impira.com
@@ -363,6 +354,18 @@ Used in Natural Language Processing.
 * [Machine Learning Resources](https://www.ritchieng.com/machine-learning-resources/)
 * [The Birthplace of AI](https://medium.com/cantors-paradise/the-birthplace-of-ai-9ab7d4e5fb00) - The 1956 Dartmouth Workshop
 * [The Seven Patterns Of AI](https://www.forbes.com/sites/cognitiveworld/2019/09/17/the-seven-patterns-of-ai/#1d0a714812d0) - Kathleen Walch
+
+### Podcast
+* [Gradient Dissent - A Machine Learning Podcast by W&B](https://www.listennotes.com/podcasts/gradient-dissent-a-machine-learning-podcast-92EROTMb3Ip/)
+
+### Glossary
+* [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
+
+### Roadmap
+* [Data Science Curriculum for self-study](https://www.kdnuggets.com/2020/02/data-science-curriculum-self-study.html) - Benjamin Obi Tayo
+* [AI Expert Roadmap](https://i.am.ai/roadmap/) i.am.ai
+
+-----
 
 ## Gartner Hype Cycle
 * [The 4 Trends That Prevail on the Gartner Hype Cycle for AI, 2021](https://www.gartner.com/en/articles/the-4-trends-that-prevail-on-the-gartner-hype-cycle-for-ai-2021)
