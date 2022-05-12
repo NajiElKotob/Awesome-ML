@@ -294,7 +294,7 @@ Used in Natural Language Processing.
 
 ### Courses
 * [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners) - Microsoft
-* [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
+* [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) - Google
 * [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/online/) :star: - nvidia.com
 
 ### Tutorials
