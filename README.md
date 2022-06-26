@@ -172,6 +172,7 @@ Used in Natural Language Processing.
 * [What is Natural Language Processing (NLP)? (Video)](https://www.youtube.com/watch?v=h3qNxo_cC0M) - Bernard Marr
 * Samples
   * [Copy.ai](https://www.copy.ai) - Write better marketing copy and content with AI
+  * [Quillbot](https://quillbot.com) - Rewrite an essay, paper or article using paraphrasing tool. Improve your writing instantly.
 
 #### Text Analysis
 #### Speech Recognition
