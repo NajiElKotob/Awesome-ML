@@ -170,6 +170,8 @@ Used in Natural Language Processing.
 * [5 Amazing Examples Of Natural Language Processing (NLP) In Practice](https://www.forbes.com/sites/bernardmarr/2019/06/03/5-amazing-examples-of-natural-language-processing-nlp-in-practice/#2908458b1b30) - Bernard Marr
 * [Your Guide to Natural Language Processing (NLP)](https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1)
 * [What is Natural Language Processing (NLP)? (Video)](https://www.youtube.com/watch?v=h3qNxo_cC0M) - Bernard Marr
+* Samples
+  * [Copy.ai](https://www.copy.ai) - Write better marketing copy and content with AI
 
 #### Text Analysis
 #### Speech Recognition
@@ -394,6 +396,7 @@ Used in Natural Language Processing.
 * [This person does NOT exist](https://thispersondoesnotexist.com) - Every single photo on the site has been created by using a special kind of artificial intelligence algorithm called generative adversarial networks (GANs).
 * [PREDPOL](https://www.predpol.com/) - Predict critical events and gain actionable insight
 * [Towards a Conversational Agent that Can Chat About…Anything (Meena)](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) - Brain Team (Google AI)
+
 
 ### Articles
 * [Why you should be using active learning to build ML](https://www.marktechpost.com/introduction-to-machine-learning-with-python-course-free/) - marktechpost.com
