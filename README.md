@@ -81,10 +81,11 @@ Sayak Paul
 #### Classification
 ```Predict discrete values (Binary, Multi-Class (Or), Multi-Label (Or/And)```
 
-##### KNN (K-nearest neighbors)
+
 
 ##### Logistic Regression
-
+##### KNN (K-nearest neighbors)
+##### Random Forest
 ##### Naive Bayes Classifier
 * [Naive Bayes Classifier](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c) - Rohith Gandhi (May 2018)
 
