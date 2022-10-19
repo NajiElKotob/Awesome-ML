@@ -79,7 +79,7 @@ Sayak Paul
 * R2, MAE, MSE, RMSE
 
 #### Classification
-```Predict discrete values```
+```Predict discrete values (Binary, Multi-Class (Or), Multi-Label (Or/And)```
 
 ##### KNN (K-nearest neighbors)
 
