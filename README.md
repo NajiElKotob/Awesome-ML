@@ -142,8 +142,14 @@ Sayak Paul
 #### Temporal Difference (TD)
 
 
+-----
+
 ## Evaluation Metrics
 #### Confusion Matrix
+* Accuracy = (TN + TP) / Total Predictions
+* Precision = TP / (TP + FP)
+* Recall = TP / (TP + FN)
+* F1 Score = 2 * ((Precision*Recall) / (Precision + Recall))
 
 
 -----
