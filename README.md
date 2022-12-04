@@ -222,8 +222,9 @@ Used in Natural Language Processing.
 * [VisuAlgo](https://visualgo.net/en) - visualising data structures and algorithms through animation
 
 ### Recommendation System
-* [Netflix Recommendation System (Course)](https://www.coursera.org/lecture/networks-illustrated/netflix-recommendation-system-TYOZV) - 
+* [Netflix Recommendation System (Course)](https://www.coursera.org/lecture/networks-illustrated/netflix-recommendation-system-TYOZV) - coursera.org
 * [Introduction to Recommender System](https://hackernoon.com/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75) - Introduction to Recommender System. Part 1 (Collaborative Filtering, Singular Value Decomposition)
+* [Netflix recommendation system: How it works](https://recoai.net/netflix-recommendation-system-how-it-works/) - recoai.net
 
 ### Predictive Delivery
 * [How predictive delivery has shaped the logistics sector](https://www.eurosender.com/blog/en/how-predictive-delivery-shaped-logistics-sector/) - EuroSender
