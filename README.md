@@ -399,6 +399,7 @@ Used in Natural Language Processing.
 ### Tools
 * [backronym](https://www.infornopolitan.xyz/backronym) - Wow
   * [How to generate ideas in Machine Learning?](https://medium.com/datadriveninvestor/how-to-generate-ideas-in-machine-learning-bdb9a7267392) 
+* [VoiceMod](https://www.voicemod.net/) - voicemod.net | Free Real-Time Voice Changer
 
 ### Technologies
 * [BlueDot](https://bluedot.global/) - BlueDot’s outbreak risk software safeguards lives by mitigating exposure to infectious diseases that threaten human health, security, and prosperity (bluedot.global)
