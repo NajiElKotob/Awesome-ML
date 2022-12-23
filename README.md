@@ -409,7 +409,7 @@ Used in Natural Language Processing.
 * [This person does NOT exist](https://thispersondoesnotexist.com) - Every single photo on the site has been created by using a special kind of artificial intelligence algorithm called generative adversarial networks (GANs).
 * [PREDPOL](https://www.predpol.com/) - Predict critical events and gain actionable insight
 * [Towards a Conversational Agent that Can Chat About…Anything (Meena)](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) - Brain Team (Google AI)
-
+* [DALL·E, GPT-3, Midjourney, Stable Diffusion Prompt Marketplace](https://promptbase.com/) - promptbase.com
 
 ### Articles
 * [Why you should be using active learning to build ML](https://www.marktechpost.com/introduction-to-machine-learning-with-python-course-free/) - marktechpost.com
