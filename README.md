@@ -451,6 +451,7 @@ Used in Natural Language Processing.
   * [BBC Documentary - Hyper Evolution : Rise Of The Robots (Part 3)](https://www.youtube.com/watch?v=hRuBZLe8vfs&t=11s) - (May 2018)
 
 ### Special Performance
+* ["Jiuzhang" Chinese quantum computer is 180 million times faster on AI-related tasks, says team led by ‘father of quantum’ Pan Jianwei](https://www.scmp.com/news/china/science/article/3223364/chinese-quantum-computer-180-million-times-faster-ai-related-tasks-says-team-led-physicist-pan)
 * [Top500](https://www.top500.org/) - TOP500 Becomes a Petaflop Club for Supercomputers
   * [Lists](https://www.top500.org/lists/top500/)
 * [Blue Gene (IBM)](https://www.ibm.com/ibm/history/ibm100/us/en/icons/bluegene/) - IBM
