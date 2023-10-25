@@ -371,6 +371,7 @@ Used in Natural Language Processing.
 
 ### Podcast
 * [Gradient Dissent - A Machine Learning Podcast by W&B](https://www.listennotes.com/podcasts/gradient-dissent-a-machine-learning-podcast-92EROTMb3Ip/)
+* [17 Data Science Podcasts to Listen to in 2023](https://www.coursera.org/articles/data-science-podcasts) - coursera.org
 
 ### Glossary
 * [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
