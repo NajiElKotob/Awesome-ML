@@ -412,6 +412,8 @@ Used in Natural Language Processing.
 * [DALL·E, GPT-3, Midjourney, Stable Diffusion Prompt Marketplace](https://promptbase.com/) - promptbase.com
 * [VALL-E](https://valle-demo.github.io/) - Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers
 
+### Large Language Models
+* [ChatGPT](https://chat.openai.com/) - chat.openai.com
 
 ### Articles
 * [Why you should be using active learning to build ML](https://www.marktechpost.com/introduction-to-machine-learning-with-python-course-free/) - marktechpost.com
