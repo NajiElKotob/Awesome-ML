@@ -414,6 +414,7 @@ Used in Natural Language Processing.
 
 ### Large Language Models
 * [ChatGPT](https://chat.openai.com/) - chat.openai.com
+* [Bard](https://bard.google.com/) - bard.google.com
 * [LLaVA: Large Language and Vision Assistant](https://llava-vl.github.io/) - llava-vl.github.io
 
 ### Articles
