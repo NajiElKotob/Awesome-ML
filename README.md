@@ -328,6 +328,7 @@ Used in Natural Language Processing.
 * [Data Science at the Command Line (Free)](https://datascienceatthecommandline.com/) - datascienceatthecommandline.com
 
 ### Videos
+* [Generative AI and The mindset needed to fully embrace it](https://www.youtube.com/watch?v=vGKmNv20zJg) - Andrew McAfee | Bernard Marr
 * [AlphaGo :tv:](https://www.youtube.com/watch?v=WXuK6gekU1Y) - Full award-winning documentary
 * [Machine Learning — Andrew Ng, Stanford University (Full Course, 112 videos)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) 🌟
 * [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU&feature=youtu.be) - This is a talk for people who know code, but who don’t necessarily know machine learning. 
