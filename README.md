@@ -334,7 +334,8 @@ Used in Natural Language Processing.
 * [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU&feature=youtu.be) - This is a talk for people who know code, but who don’t necessarily know machine learning. 
 * [Data Mining with Weka](https://www.youtube.com/user/WekaMOOC) - Weka MOOC
 * [Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Machine Learning Recipes with Josh Gordon
-* [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) - StatQuest with Josh Starmer 
+* [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) - StatQuest with Josh Starmer
+* [Harvard Professor Explains Algorithms in 5 Levels of Difficulty | WIRED](https://www.youtube.com/watch?v=fkIvmfqX-t0) - WIRED
 
 ### Articles
 * [Simplifying the Difference: ML vs DL](https://www.scs.org.sg/articles/machine-learning-vs-deep-learning) - scs.org.sg | Singapore Computer Society
