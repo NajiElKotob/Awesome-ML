@@ -35,6 +35,7 @@ Awesome Machine Learning Resources and References
 ## Artificial Intelligence
 ### Artificial Narrow Intelligence (ANI or Narrow AI)
 ### Artificial General Intelligence (AGI)
+### Artificial Superintelligence (ASI)
 
 -----
 
