@@ -296,6 +296,7 @@ Used in Natural Language Processing.
 * [H2O](https://www.h2o.ai) - Open Source Leader in AI and ML
 * [Alteryx](https://www.alteryx.com) - A leader in data science and self-service analytics
 * [ONNX](https://onnx.ai/) - ONNX is an open format to represent deep learning models. With ONNX, AI developers can more easily move models between state-of-the-art tools and choose the combination that is best for them. ONNX is developed and supported by a community of partners.
+* [Orange Data Mining](https://orangedatamining.com/) - orangedatamining.com | University of Ljubljana
 
 ### APIs
 * [Cognitive Services (Microsoft)](https://azure.microsoft.com/en-us/try/cognitive-services/my-apis/)
