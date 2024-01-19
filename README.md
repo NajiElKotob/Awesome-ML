@@ -32,7 +32,7 @@ Awesome Machine Learning Resources and References
 * [Special Technologies and Videos](#special-technologies-and-videos)
 * [Special Performance](#special-performance) ⚡
 -----
-## Artificial Intelligence
+# Artificial Intelligence
 ### Artificial Narrow Intelligence (ANI or Narrow AI)
 ### Artificial General Intelligence (AGI)
 ### Artificial Superintelligence (ASI)
