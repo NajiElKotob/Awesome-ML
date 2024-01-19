@@ -176,7 +176,20 @@ Used in Natural Language Processing.
 -----
 ## Special Algorithms and Techniques :fire:
 
-### Natural language processing (NLP)
+-----
+## Time Series Analysis
+`Time series analysis is a statistical method that deals with time series data, or trend analysis. Here are some of the most widely used techniques for time series analysis:`
+* [Naive Forecast](https://forecastegy.com/posts/naive-time-series-forecasting-in-python/) - forecastegy.com | The simple naive model predicts the next values as the last observed value.
+### Seasonal Naive Forecast
+### Window Average Forecast
+### Seasonal Window Average Forecast
+### Autoregressive Integrated Moving Average (ARIMA)
+### Seasonal Decomposition of Time Series (STL or SEATS)
+### Exponential Smoothing (ETS)
+### Vector Autoregression (VAR)
+### GARCH
+
+## Natural language processing (NLP)
 > Natural language processing (NLP) is a form of AI that extracts meaning from human language to make decisions based on the information.
 * [5 Amazing Examples Of Natural Language Processing (NLP) In Practice](https://www.forbes.com/sites/bernardmarr/2019/06/03/5-amazing-examples-of-natural-language-processing-nlp-in-practice/#2908458b1b30) - Bernard Marr
 * [Your Guide to Natural Language Processing (NLP)](https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1)
@@ -185,23 +198,23 @@ Used in Natural Language Processing.
   * [Copy.ai](https://www.copy.ai) - Write better marketing copy and content with AI
   * [Quillbot](https://quillbot.com) - Rewrite an essay, paper or article using paraphrasing tool. Improve your writing instantly.
 
-#### Text Analysis
-#### Speech Recognition
-#### Natural Language Understanding
-#### Natural Language Generation
-#### Natural Language Translation
+### Text Analysis
+### Speech Recognition
+### Natural Language Understanding
+### Natural Language Generation
+### Natural Language Translation
 
 
-### Computer Vision (CV)
-#### Image Classification
-##### Object Recognition
-##### Semantic Segmentation
-#### Object Classification
-#### Image Generation
-#### Motion Detection
-#### Trajectory Estimation
-#### Video Tracking
-#### Navigation
+## Computer Vision (CV)
+### Image Classification
+#### Object Recognition
+#### Semantic Segmentation
+### Object Classification
+### Image Generation
+### Motion Detection
+### Trajectory Estimation
+### Video Tracking
+### Navigation
 
 
 ### Deepfake
@@ -233,13 +246,7 @@ Used in Natural Language Processing.
 ### Visual Intelligence
 * [Custom Vision](https://www.customvision.ai/) - Microsoft
 
-### Time-Series Analysis :star:
 
-#### ARIMA
-
-#### Exponential smoothing
-
-#### GARCH
 
 ### Image Processing :star:
 
