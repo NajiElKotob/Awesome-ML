@@ -347,6 +347,9 @@ Used in Natural Language Processing.
 * [A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) - StatQuest with Josh Starmer
 * [Harvard Professor Explains Algorithms in 5 Levels of Difficulty | WIRED](https://www.youtube.com/watch?v=fkIvmfqX-t0) - WIRED
 
+### Mindmaps and Infographics
+* [ML Sunburst (SolClover)](https://chart-studio.plotly.com/~SolClover/61.embed) ⭐ -chart-studio.plotly.com
+  
 ### Articles
 * [Simplifying the Difference: ML vs DL](https://www.scs.org.sg/articles/machine-learning-vs-deep-learning) - scs.org.sg | Singapore Computer Society
 * [Feedback loops in machine learning](https://www.impira.com/blog/feedback-loop) - impira.com
