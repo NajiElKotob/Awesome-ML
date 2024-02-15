@@ -32,14 +32,14 @@
 * [Special Technologies and Videos](#special-technologies-and-videos)
 * [Special Performance](#special-performance) ⚡
 -----
-# Artificial Intelligence
+# Artificial Intelligence [(AI Tree)](https://twitter.com/NajiElKotob/status/1746132525003514039)
 ### Artificial Narrow Intelligence (ANI or Narrow AI)
 ### Artificial General Intelligence (AGI)
 ### Artificial Superintelligence (ASI)
 
 -----
 
-## Machine Learning
+## Machine Learning 
 
 ### Supervised :star:
 > Supervised learning is a method used to enable machines to classify objects, problems or situations based on related data fed into the machines. (techopedia.com)
