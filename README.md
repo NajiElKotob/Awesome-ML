@@ -355,7 +355,8 @@ Used in Natural Language Processing.
 * [Simplifying the Difference: ML vs DL](https://www.scs.org.sg/articles/machine-learning-vs-deep-learning) - scs.org.sg | Singapore Computer Society
 * [Feedback loops in machine learning](https://www.impira.com/blog/feedback-loop) - impira.com
 * [Objectives for AI applications (Google)](https://ai.google/principles/) - ai.google
-* [Which machine learning algorithm should I use? (SAS)](https://blogs.sas.com/content/subconsciousmusings/2020/12/09/machine-learning-algorithm-use/) - sas.com
+* [Which machine learning algorithm should I use? (SAS)](https://blogs.sas.com/content/subconsciousmusings/2020/12/09/machine-learning-algorithm-use/) ⭐- sas.com
+* [Machine Learning Algorithm Cheat Sheet for Azure Machine Learning designer](https://learn.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet?view=azureml-api-1)
 * [What Is Artificial Intelligence?](https://www.gartner.com/en/topics/artificial-intelligence?utm_campaign=RM_NA_2022_SWG_NL_01_IT) - gartner.com
 * [Edge AI, is This the End of Cloud?](https://governadav.medium.com/edge-ai-is-this-the-end-of-cloud-9e5a16cf5fbf) - Nadav Gover (15 April 2021)
 * [4 Intersecting Domains That You Can Easily Confuse with Artificial Intelligence](https://towardsdatascience.com/4-intersecting-domains-that-you-can-easily-confuse-with-artificial-intelligence-2233cb6ad7d1) - Orhan G. Yalçın (19 December 2020)
