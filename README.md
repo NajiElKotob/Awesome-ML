@@ -59,7 +59,9 @@ Sayak Paul
 * [Introduction and regression (IBM)](https://developer.ibm.com/articles/os-weka1/) :star:
 * [How well does your regression equation truly represent your set of data](https://mathbits.com/MathBits/TISection/Statistics2/correlation.htm) - Correlation Coefficient, r and Coefficient of Determination, r 2  or R2
 * [Graphing On The Coordinate Plane (Algebra Basics) :tv:](https://www.youtube.com/watch?v=9Uc62CuQjc4) - Math Antics 
-
+* [zedstatistics :tv:](https://www.youtube.com/watch?v=aq8VU5KLmkY&list=PLTNMv857s9WUI1Nz4SssXDKAELESXz-bi)
+* [The OLS Assumptions](https://365datascience.com/tutorials/statistics-tutorials/ols-assumptions/) - 365datascience.com
+  
 ##### Log-Log Linear Regression
 ##### Polynomial Regression
 ##### Segmented regression
