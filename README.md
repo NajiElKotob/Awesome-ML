@@ -287,8 +287,15 @@ Used in Natural Language Processing.
 
 -----
 
+## GPT
+* [But what is a GPT? Visual intro to Transformers | Deep learning, chapter 5](https://www.youtube.com/watch?v=wjZofJX0v4M) - 3Blue1Brown
+
+
+-----
+
 ## Exams and Certifications
 * [CertNexus](http://certnexus.com/) - Emerging Technology Certifications
+* DataX
 
 -----
 
@@ -298,8 +305,7 @@ Used in Natural Language Processing.
   * [KNIME Server](https://www.knime.com/knime-server)
   * [KNIME WebPortal](https://www.knime.com/knime-software/knime-webportal)
 * [RapidMiner](https://rapidminer.com) - RapidMiner is a data science platform for teams that unites data prep, machine learning, and predictive model deployment.
-* [Weka](https://www.cs.waikato.ac.nz/ml/weka/
-) - Weka is a collection of machine learning algorithms for data mining tasks. It contains tools for data preparation, classification, regression, clustering, association rules mining, and visualization. 
+* [Weka](https://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks. It contains tools for data preparation, classification, regression, clustering, association rules mining, and visualization. 
 * [AzureML](https://studio.azureml.net/) - Microsoft Azure Machine Learning Studio
 * [IBM Watson](https://www.ibm.com/watson) - Powered by the latest innovations in machine learning, Watson is the open, multicloud platform that lets you automate the AI lifecycle. Build powerful models from scratch, or speed time-to-value with pre-built enterprise apps.
 * [H2O](https://www.h2o.ai) - Open Source Leader in AI and ML
