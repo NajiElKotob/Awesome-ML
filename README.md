@@ -328,6 +328,7 @@ Used in Natural Language Processing.
 * [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) - Google
 * [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/online/) :star: - nvidia.com
 * [AI learning hub](https://learn.microsoft.com/en-us/ai/) - learn.microsoft.com | Microsoft Learn is your trusted source to help you get skilled up and ready to power AI transformation with the Microsoft Cloud.
+* [7 free and low-cost AWS courses that can help you use generative AI](https://www.aboutamazon.com/news/aws/7-free-and-low-cost-aws-courses-that-can-help-you-use-generative-ai) - aboutamazon.com
 
 ### Tutorials
 * [Introduction To Machine Learning With Python Course (FREE)](https://www.marktechpost.com/introduction-to-machine-learning-with-python-course-free/) - marktechpost.com
