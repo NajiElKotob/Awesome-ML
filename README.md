@@ -173,6 +173,8 @@ Used in the field of Computer Vision.
 #### Recurrent Neural Networks (RNN)
 Used in Natural Language Processing.
 
+#### GenAI
+* [Introduction to Generative AI 📺 ~22min](https://www.youtube.com/watch?v=G2fqAlgmoPo) - Google Cloud Tech
 
 
 -----
@@ -221,10 +223,6 @@ Used in Natural Language Processing.
 
 ### Deepfake
 * [Fake Videos of Real People (TED)](https://www.ted.com/talks/supasorn_suwajanakorn_fake_videos_of_real_people_and_how_to_spot_them?language=en#t-37041) - Do you think you're good at spotting fake videos, where famous people say things they've never said in real life?
-
-### GenAI
-* [Introduction to Generative AI 📺 ~22min](https://www.youtube.com/watch?v=G2fqAlgmoPo) - Google Cloud Tech
-
   
 ### Generative Adversarial Networks (GANs)
 * [Fake Anything: "The Art of Deep Learning" - Deep-Fake, GANs, Digital Art and a Live Hands-On Session](https://www.youtube.com/watch?v=8Mf8xKzrpEY) - (June 2020)
